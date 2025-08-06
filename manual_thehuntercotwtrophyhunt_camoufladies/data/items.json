@@ -1,0 +1,2350 @@
+[
+  {
+    "count": "112",
+    "name": "Diamond Trophy",
+    "category": [
+      "Trophies"
+    ],
+    "progression": true
+  },
+  {
+    "count": "112",
+    "name": "Gold Trophy",
+    "category": [
+      "Trophies"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 1 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 2 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 3 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 4 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 5 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 6 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 7 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 8 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Class 9 Permit",
+    "category": [
+      "Permits"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hirschfelden Hunting Reserve",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Layton Lake District",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Medved-Taiga National Park",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vurhonga Savanna",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Parque Fernando",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Yukon Valley",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cuatro Colinas Game Reserve",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Ridge Peaks",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Te Awaroa National Park",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rancho del Arroyo",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mississippi Acres Preserve",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Revontuli Coast",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "New England Mountains",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Emerald Coast",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sundarpatan",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Salzwiesen Park",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Askiy Ridge Hunting Preserve",
+    "category": [
+      "Hunting Reserve"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": ".223 Docent",
+    "category": [
+      "Rifle-Class 2", 
+	    "Gun-Class 2",
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Ranger .243",
+    "category": [
+      "Rifle-Class 2", 
+	    "Gun-Class 2",
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": ".270 Huntsman",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "7 mm Regent Magnum",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rangemaster 338",
+    "category": [
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Whitlock Model 86",
+    "category": [
+      "Rifle-Class 2", 
+	    "Gun-Class 2",
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Coachmate Lever .45-70",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Virant .22LR",
+    "category": [
+      "Rifle-Class 1", 
+	    "Gun-Class 1",
+      "Rifle",
+      "DLC - Weapon Pack 1"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "King 470DB",
+    "category": [
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle",
+      "DLC - Vurhonga Savanna"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Solokhin MN1890",
+    "category": [
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle",
+      "DLC - Weapon Pack 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": ".300 Canning Magnum",
+    "category": [
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle",
+      "DLC - Yukon Valley"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vasquez Cyclone .45",
+    "category": [
+      "Rifle-Class 2", 
+	    "Gun-Class 2",
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle",
+      "DLC - Weapon Pack 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Eckers .30-06",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Weapon Pack 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mårtensson 6.5mm",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Cuatro Colinas"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hudzik .50 Caplock",
+    "category": [
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Smoking Barrels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "M1 Iwaniec",
+    "category": [
+      "Rifle-Class 4", 
+      "Gun-Class 4",
+      "Rifle-Class 5", 
+      "Gun-Class 5",
+      "Rifle-Class 6", 
+      "Gun-Class 6",
+      "Rifle-Class 7", 
+      "Gun-Class 7",
+      "Rifle-Class 8", 
+      "Gun-Class 8",
+      "Rifle",
+      "DLC - Smoking Barrels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "F.L. Sporter .303",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Te Awaroa"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Kullman .22H",
+    "category": [
+      "Rifle-Class 1", 
+	    "Gun-Class 1",
+      "Rifle-Class 2", 
+	    "Gun-Class 2",
+      "Rifle",
+      "DLC - Mississippi Acres"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ZARZA-15 .22LR",
+    "category": [
+      "Rifle-Class 1", 
+	    "Gun-Class 1",
+      "Rifle",
+      "DLC - Modern Rifle Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ZARZA-15 .223",
+    "category": [
+      "Rifle-Class 2", 
+	    "Gun-Class 2",
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle",
+      "DLC - Modern Rifle Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "ZARZA-10 .308",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Modern Rifle Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Curman .50 Inline",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - New England Mountains"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tsurugi LRR .338",
+    "category": [
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle",
+      "DLC - Hunter Power Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Malmer 7mm Magnum",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle",
+      "DLC - Hunter Power Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Olsson Model 23 .308",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Hunter Power Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Zagan Varminter .22-250",
+    "category": [
+      "Rifle-Class 2", 
+	    "Gun-Class 2",
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle",
+      "DLC - Emerald Coast"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Moradi Model 1894",
+    "category": [
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Ambusher Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Arzyna .300 Mag Tactical",
+    "category": [
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle",
+      "DLC - High Calibur Weapon Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gandhare Rifle",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Sundarpatan"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Vallgarda .375",
+    "category": [
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle-Class 9", 
+	    "Gun-Class 9",
+      "Rifle",
+      "DLC - Bolt Action Rifle Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Johansson .450",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle",
+      "DLC - Bolt Action Rifle Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fors Elite .300",
+    "category": [
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle",
+      "DLC - Bolt Action Rifle Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hansson .30-06",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Rapid Hunt Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Perry .308",
+    "category": [
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle-Class 7", 
+	    "Gun-Class 7",
+      "Rifle-Class 8", 
+	    "Gun-Class 8",
+      "Rifle",
+      "DLC - Rapid Hunt Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Quist Reaper 7.62x39",
+    "category": [
+      "Rifle-Class 2", 
+	    "Gun-Class 2",
+      "Rifle-Class 3", 
+	    "Gun-Class 3",
+      "Rifle-Class 4", 
+	    "Gun-Class 4",
+      "Rifle-Class 5", 
+	    "Gun-Class 5",
+      "Rifle-Class 6", 
+	    "Gun-Class 6",
+      "Rifle",
+      "DLC - Rapid Hunt Rifle"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cacciatore 12G",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 3", 
+	    "Gun-Class 3", 
+	    "Gun-Class 3",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun-Class 8", 
+	    "Gun-Class 8",
+      "Shotgun"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Caversham Steward 12G",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 3", 
+	    "Gun-Class 3",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun-Class 8", 
+	    "Gun-Class 8",
+      "Shotgun"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Couso Model 1897",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 3", 
+	    "Gun-Class 3",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun",
+      "DLC - Rancho del Arroyo"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Strecker SxS 20G",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 3", 
+	    "Gun-Class 3",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun",
+      "DLC - Wild Goose Chase Gear"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Nordin 20SA",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 3", 
+	    "Gun-Class 3",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun",
+      "DLC - Duck and Cover Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grelck Drilling Rifle",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 3", 
+	    "Gun-Class 3",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun-Class 8", 
+	    "Gun-Class 8",
+      "Shotgun-Class 9", 
+	    "Gun-Class 9",
+      "Shotgun",
+      "DLC - Weapon Pack 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Miller Model 1891",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun-Class 8", 
+	    "Gun-Class 8",
+      "Shotgun-Class 9", 
+	    "Gun-Class 9",
+      "Shotgun",
+      "DLC - Smoking Barrels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Strandberg 10SA Executive",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun-Class 8", 
+	    "Gun-Class 8",
+      "Shotgun-Class 9", 
+	    "Gun-Class 9",
+      "Shotgun",
+      "DLC - High Calibur Weapon Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gopi 10G Grand",
+    "category": [
+      "Shotgun-Class 1", 
+	    "Gun-Class 1",
+      "Shotgun-Class 2", 
+	    "Gun-Class 2",
+      "Shotgun-Class 4", 
+	    "Gun-Class 4",
+      "Shotgun-Class 5", 
+	    "Gun-Class 5",
+      "Shotgun-Class 6", 
+	    "Gun-Class 6",
+      "Shotgun-Class 7", 
+	    "Gun-Class 7",
+      "Shotgun-Class 8", 
+	    "Gun-Class 8",
+      "Shotgun-Class 9", 
+	    "Gun-Class 9",
+      "Shotgun",
+      "DLC - Salzwiesen"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Alexander Longbow",
+    "category": [
+      "Bow",
+      "DLC - Silver Ridge"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bearclaw Lite CB-60",
+    "category": [
+      "Bow"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Crosspoint CB-165",
+    "category": [
+      "Bow",
+      "DLC - Weapon Pack 1"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hawk Edge CB-70",
+    "category": [
+      "Bow"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Houyi Recurve Bow",
+    "category": [
+      "Bow",
+      "DLC - Weapon Pack 1"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Koter CB-65 Bow",
+    "category": [
+      "Bow",
+      "DLC - High-Tech Hunting Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Razorback Lite CB-60",
+    "category": [
+      "Bow"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Stenberg Takedown Recurve Bow",
+    "category": [
+      "Bow",
+      "DLC - Ambusher Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": ".243 R. Cuomo",
+    "category": [
+      "Handgun-Class 2", 
+	    "Gun-Class 2",
+      "Handgun-Class 3", 
+	    "Gun-Class 3",
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun-Class 6", 
+	    "Gun-Class 6",
+      "Handgun",
+      "DLC - Assorted Sidearms Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": ".44 Panther Magnum",
+    "category": [
+      "Handgun-Class 3", 
+	    "Gun-Class 3",
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun-Class 6", 
+	    "Gun-Class 6",
+      "Handgun-Class 7", 
+	    "Gun-Class 7",
+      "Handgun-Class 6", 
+	    "Gun-Class 8",
+      "Handgun"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": ".45 Rolleston",
+    "category": [
+      "Handgun-Class 2", 
+	    "Gun-Class 2",
+      "Handgun-Class 3", 
+	    "Gun-Class 3",
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun",
+      "DLC - Assorted Sidearms Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "10mm Davani",
+    "category": [
+      "Handgun-Class 2", 
+	    "Gun-Class 2",
+      "Handgun-Class 3", 
+	    "Gun-Class 3",
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun-Class 6", 
+	    "Gun-Class 6",
+      "Handgun",
+      "DLC - Assorted Sidearms Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Andersson .22LR",
+    "category": [
+      "Handgun-Class 1",
+      "Handgun",
+      "DLC - Weapon Pack 3"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Focoso 357",
+    "category": [
+      "Handgun-Class 2", 
+	    "Gun-Class 2",
+      "Handgun-Class 3", 
+	    "Gun-Class 3",
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun-Class 6", 
+	    "Gun-Class 6",
+      "Handgun"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mangiafico 410/45 Colt",
+    "category": [
+      "Handgun-Class 1",
+      "Handgun-Class 2", 
+	    "Gun-Class 2",
+      "Handgun-Class 3", 
+	    "Gun-Class 3",
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun",
+      "DLC - Weapon Pack 2"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Rhino 454",
+    "category": [
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun-Class 6", 
+	    "Gun-Class 6",
+      "Handgun-Class 7", 
+	    "Gun-Class 7",
+      "Handgun-Class 6", 
+	    "Gun-Class 8",
+      "Handgun-Class 9", 
+	    "Gun-Class 9",
+      "Handgun"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Sundberg 454",
+    "category": [
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun-Class 6", 
+	    "Gun-Class 6",
+      "Handgun-Class 7", 
+	    "Gun-Class 7",
+      "Handgun-Class 6", 
+	    "Gun-Class 8",
+      "Handgun-Class 9", 
+	    "Gun-Class 9",
+      "Handgun"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": ".45-70 Jernberg Superior",
+    "category": [
+      "Handgun-Class 4", 
+	    "Gun-Class 4",
+      "Handgun-Class 5", 
+	    "Gun-Class 5",
+      "Handgun-Class 6", 
+	    "Gun-Class 6",
+      "Handgun-Class 7", 
+	    "Gun-Class 7",
+      "Handgun-Class 6", 
+	    "Gun-Class 8",
+      "Handgun-Class 9", 
+	    "Gun-Class 9",
+      "Handgun",
+      "DLC - High Calibur Weapon Pack"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Progressive Zoom Scope",
+    "category": [
+      "Sight"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Blacktail Deer Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elk Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Moose Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mule Deer Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Musk Deer Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Red Deer Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Roe Deer Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Whitetail Deer Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wild Boar Scent",
+    "category": [
+      "Scent"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Antler Rattler",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Axis Deer \"Screamer\" Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Beacon Deluxe Bean Goose Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Beacon Deluxe Duck Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Beacon Deluxe Eurasian Teal Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Beacon Deluxe Eurasian Wigeon Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Beacon Deluxe Greylag Goose Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Buck \"Snort Wheeze\" Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Deer \"Bleat\" Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Deer \"Grunt\" Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elk Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Gadwall Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hazel Grouse Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Moose Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Magpie Goose Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Predator \"Distressed Fawn\" Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Predator \"Jackrabbit\" Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Raccoon \"Squall\" Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Red Deer Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Roe Deer Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sambar Mouth Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Short Reed Canada Goose Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wild Boar Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wild Turkey Crow Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Wild Turkey Mouth Caller",
+    "category": [
+      "Caller"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quist Red Pro Electronic Caller",
+    "category": [
+      "Caller",
+      "DLC - Ambusher Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite 2 Tent - Blue",
+    "category": [
+      "Portable Structures",
+      "DLC - Tents & Ground Blinds"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite 2 Tent - Camo",
+    "category": [
+      "Portable Structures",
+      "DLC - Tents & Ground Blinds"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite 2 Tent - Green",
+    "category": [
+      "Portable Structures",
+      "DLC - Tents & Ground Blinds"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite 2 Tent - Pink",
+    "category": [
+      "Portable Structures",
+      "DLC - Tents & Ground Blinds"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite 2 Tent - White",
+    "category": [
+      "Portable Structures",
+      "DLC - Tents & Ground Blinds"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Ground Blind - Conifer",
+    "category": [
+      "Portable Structures",
+      "DLC - Tents & Ground Blinds"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Ground Blind - Timber",
+    "category": [
+      "Portable Structures",
+      "DLC - Tents & Ground Blinds"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Layout Blind",
+    "category": [
+      "Portable Structures",
+      "DLC - Wild Goose Chase Gear"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Water Layout Blind",
+    "category": [
+      "Portable Structures",
+      "DLC - Wild Goose Chase Gear"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Waterfowl Blind - Conifer",
+    "category": [
+      "Portable Structures",
+      "DLC - Duck and Cover Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Waterfowl Blind - Marsh",
+    "category": [
+      "Portable Structures",
+      "DLC - Duck and Cover Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Waterfowl Blind - Timber",
+    "category": [
+      "Portable Structures",
+      "DLC - Duck and Cover Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Treestand - Arctic",
+    "category": [
+      "Portable Structures",
+      "DLC - Treestand and Tripod Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Treestand - Conifer",
+    "category": [
+      "Portable Structures",
+      "DLC - Treestand and Tripod Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Incognito Deluxe Treestand - Timber",
+    "category": [
+      "Portable Structures",
+      "DLC - Treestand and Tripod Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Deployable Tripod Stand - Arctic",
+    "category": [
+      "Portable Structures",
+      "DLC - Treestand and Tripod Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Deployable Tripod Stand - Conifer",
+    "category": [
+      "Portable Structures",
+      "DLC - Treestand and Tripod Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Elite Deployable Tripod Stand - Timber",
+    "category": [
+      "Portable Structures",
+      "DLC - Treestand and Tripod Pack"
+    ],
+    "useful": true
+  },
+  {
+    "count": "4",
+    "name": "Progressive Binoculars",
+    "category": [
+      "Binoculars"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Exoadventurer 32 Light Daypack",
+    "category": [
+      "Backpacks"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Summit Explorer 6000 Pack",
+    "category": [
+      "Backpacks"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Trailscout Mini Daypack",
+    "category": [
+      "Backpacks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Arctic Hunting Outfit",
+    "category": [
+      "Clothing",
+      "DLC - Medved-Taiga"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Australian Bushwear Outfit",
+    "category": [
+      "Clothing"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Blazing Orange Outfit",
+    "category": [
+      "Clothing"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Dry Leaves Ghillie Suit",
+    "category": [
+      "Clothing"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Forest Camo Outfit",
+    "category": [
+      "Clothing"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Olive Outfit",
+    "category": [
+      "Clothing"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Patagonian Gaucho Outfit",
+    "category": [
+      "Clothing"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Remi Warren Outfit",
+    "category": [
+      "Clothing"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Savanna Warden",
+    "category": [
+      "Clothing"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Doggy Biscuits",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "First Aid Kit",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": "10",
+    "name": "Scent Eliminator",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "German Shorthaired Pointer - Liver Ticked",
+    "category": [
+      "Dog",
+      "DLC - German Shorthair"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "German Shorthaired Pointer - Liver",
+    "category": [
+      "Dog",
+      "DLC - German Shorthair"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "German Shorthaired Pointer - Liver Roan",
+    "category": [
+      "Dog",
+      "DLC - German Shorthair"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "German Shorthaired Pointer - Liver White",
+    "category": [
+      "Dog",
+      "DLC - German Shorthair"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "German Shorthaired Pointer - Liver Whitepatched",
+    "category": [
+      "Dog",
+      "DLC - German Shorthair"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "German Shorthaired Pointer - Liver Whitepatched Ticked",
+    "category": [
+      "Dog",
+      "DLC - German Shorthair"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bloodhound - Black and Tan Saddle",
+    "category": [
+      "Dog",
+      "DLC - Bloodhound"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bloodhound - Black and Tan Fullcoat",
+    "category": [
+      "Dog",
+      "DLC - Bloodhound"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bloodhound - Liver and Tan Fullcoat",
+    "category": [
+      "Dog",
+      "DLC - Bloodhound"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bloodhound - Liver and Tan Saddle",
+    "category": [
+      "Dog",
+      "DLC - Bloodhound"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bloodhound - Red and Black Pigmented",
+    "category": [
+      "Dog",
+      "DLC - Bloodhound"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bloodhound - Red and Liver Pigmented",
+    "category": [
+      "Dog",
+      "DLC - Bloodhound"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Labrador Retriever - Yellow",
+    "category": [
+      "Dog",
+      "DLC - Labrador Retriever"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Labrador Retriever - Black",
+    "category": [
+      "Dog",
+      "DLC - Labrador Retriever"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Labrador Retriever - Chocolate",
+    "category": [
+      "Dog",
+      "DLC - Labrador Retriever"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Labrador Retriever - Fox Red",
+    "category": [
+      "Dog",
+      "DLC - Labrador Retriever"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Labrador Retriever - Charcoal",
+    "category": [
+      "Dog",
+      "DLC - Labrador Retriever"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Labrador Retriever - Champagne",
+    "category": [
+      "Dog",
+      "DLC - Labrador Retriever"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Labrador Retriever - Silver",
+    "category": [
+      "Dog",
+      "DLC - Labrador Retriever"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Saber 4x4 - Charcoal",
+    "category": [
+      "Vehicle",
+      "DLC - Saber 4x4 ATV"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Saber 4x4 - Crimson",
+    "category": [
+      "Vehicle",
+      "DLC - Saber 4x4 ATV"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Saber 4x4 - Jade",
+    "category": [
+      "Vehicle",
+      "DLC - Saber 4x4 ATV"
+    ],
+    "useful": true
+  },
+  {
+    "count": "1",
+    "name": "Bean Goose Decoy - Feeding",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Bean Goose Decoy - Searching",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Bean Goose Decoy - Sentry",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Canada Goose Decoy - Feeding",
+    "category": [
+      "Decoy",
+      "DLC - Wild Goose Chase Gear"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Canada Goose Decoy - Searching",
+    "category": [
+      "Decoy",
+      "DLC - Wild Goose Chase Gear"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Canada Goose Decoy - Sentry",
+    "category": [
+      "Decoy",
+      "DLC - Wild Goose Chase Gear"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Cinnamon Teal Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Cinnamon Teal Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Eurasian Teal Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Eurasian Teal Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Eurasian Wigeon Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Eurasian Wigeon Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Ferruginous Duck Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Ferruginous Duck Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Gadwall Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Gadwall Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Goldeneye Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Goldeneye Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Green-Winged Teal Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Green-Winged Teal Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Greylag Goose Decoy - Feeding",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Greylag Goose Decoy - Searching",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Greylag Goose Decoy - Sentry",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Harlequin Duck Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Harlequin Duck Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Magpie Goose Decoy - Feeding",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Magpie Goose Decoy - Searching",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Magpie Goose Decoy - Sentry",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Mallard Decoy - Drake",
+    "category": [
+      "Decoy",
+      "DLC - Duck and Cover Pack"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Mallard Decoy - Hen",
+    "category": [
+      "Decoy",
+      "DLC - Duck and Cover Pack"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Tufted Duck Decoy - Drake",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Tufted Duck Decoy - Hen",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Wild Turkey Female - Sentry",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  },
+  {
+    "count": "1",
+    "name": "Wild Turkey Male - Strutting",
+    "category": [
+      "Decoy"
+    ],
+    "filler": true
+  }
+]

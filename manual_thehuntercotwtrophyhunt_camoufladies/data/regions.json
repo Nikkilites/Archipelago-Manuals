@@ -1,0 +1,67 @@
+{
+  "Starting": {
+    "connects_to": [
+      "Difficult",
+      "Class1",
+      "Class2"
+    ],
+    "requires": [],
+    "starting": true
+  },
+  "Difficult": {
+    "connects_to": [
+      "Difficult_GD"
+    ],
+    "requires": "|@Sight:1|"
+  },
+  "Difficult_GD": {
+    "connects_to": [],
+    "requires": "|@Sight:2|"
+  },
+  "Class1": {
+    "connects_to": [
+      "Bird",
+      "Bird_flying",
+      "Class1_GD"
+    ],
+    "requires": "|Class 1 Permit:1| AND |@Sight:1|"
+  },
+  "Class1_GD": {
+    "connects_to": [
+      "Bird_flying_GD",
+      "Bird_GD"
+    ],
+    "requires": "|Class 1 Permit:1| AND |@Sight:2| AND |@Gun-Class 1:1|"
+  },
+  "Bird": {
+    "connects_to": [
+      "Bird_flying_GD",
+      "Bird_GD"
+    ],
+    "requires": "|Class 1 Permit:1| AND |@Sight:1| AND (|@Rifle:1| OR |@Shotgun:1|)"
+  },
+  "Bird_flying": {
+    "connects_to": [
+      "Bird_flying_GD"
+    ],
+    "requires": "|Class 1 Permit:1| AND |@Sight:1| AND |@Shotgun:1|"
+  },
+  "Bird_flying_GD": {
+    "connects_to": [],
+    "requires": "|Class 1 Permit:1| AND |@Sight:2| AND |@Shotgun-Class 1:1|"
+  },
+  "Bird_GD": {
+    "connects_to": [],
+    "requires": "|Class 1 Permit:1| AND |@Sight:2| AND (|@Shotgun-Class 1:1| OR |@Rifle-Class 1:1|)"
+  },
+  "Class2": {
+    "connects_to": [
+      "Class2_GD"
+    ],
+    "requires": "|Class 2 Permit:1| AND |@Sight:1| AND |@Rifle:1|"
+  },
+  "Class2_GD": {
+    "connects_to": [],
+    "requires": "|Class 2 Permit:1| AND |@Sight:2| AND |@Rifle-Class 2:1|"
+  }
+}

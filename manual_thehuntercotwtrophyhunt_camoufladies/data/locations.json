@@ -1,0 +1,4818 @@
+[
+  {
+    "name": "Canada Goose",
+    "category": [
+      "Canada Goose"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |Revontuli Coast| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Canada Goose - Bronze",
+    "category": [
+      "Canada Goose"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |Revontuli Coast| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Canada Goose - Silver",
+    "category": [
+      "Canada Goose"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |Revontuli Coast| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Canada Goose - Gold",
+    "category": [
+      "Canada Goose"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |Revontuli Coast| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Canada Goose - Diamond (8.59)",
+    "category": [
+      "Canada Goose"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |Revontuli Coast| OR |Askiy Ridge Hunting Preserve|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Cinnamon Teal",
+    "category": [
+      "Cinnamon Teal"
+    ],
+    "requires": "|Parque Fernando|",
+    "region": "Bird"
+  },
+  {
+    "name": "Cinnamon Teal - Bronze",
+    "category": [
+      "Cinnamon Teal"
+    ],
+    "requires": "|Parque Fernando|",
+    "region": "Bird"
+  },
+  {
+    "name": "Cinnamon Teal - Silver",
+    "category": [
+      "Cinnamon Teal"
+    ],
+    "requires": "|Parque Fernando|",
+    "region": "Bird"
+  },
+  {
+    "name": "Cinnamon Teal - Gold",
+    "category": [
+      "Cinnamon Teal"
+    ],
+    "requires": "|Parque Fernando|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Cinnamon Teal - Diamond (4.6)",
+    "category": [
+      "Cinnamon Teal"
+    ],
+    "requires": "|Parque Fernando|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Eurasian Teal",
+    "category": [
+      "Eurasian Teal"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Eurasian Teal - Bronze",
+    "category": [
+      "Eurasian Teal"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Eurasian Teal - Silver",
+    "category": [
+      "Eurasian Teal"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Eurasian Teal - Gold",
+    "category": [
+      "Eurasian Teal"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Eurasian Teal - Diamond (354)",
+    "category": [
+      "Eurasian Teal"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Eurasian Wigeon",
+    "category": [
+      "Eurasian Wigeon"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Eurasian Wigeon - Bronze",
+    "category": [
+      "Eurasian Wigeon"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Eurasian Wigeon - Silver",
+    "category": [
+      "Eurasian Wigeon"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Eurasian Wigeon - Gold",
+    "category": [
+      "Eurasian Wigeon"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Eurasian Wigeon - Diamond (905)",
+    "category": [
+      "Eurasian Wigeon"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Goldeneye",
+    "category": [
+      "Goldeneye"
+    ],
+    "requires": "|Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Goldeneye - Bronze",
+    "category": [
+      "Goldeneye"
+    ],
+    "requires": "|Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Goldeneye - Silver",
+    "category": [
+      "Goldeneye"
+    ],
+    "requires": "|Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Goldeneye - Gold",
+    "category": [
+      "Goldeneye"
+    ],
+    "requires": "|Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Goldeneye - Diamond (1230)",
+    "category": [
+      "Goldeneye"
+    ],
+    "requires": "|Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Green-Winged Teal",
+    "category": [
+      "Green-Winged Teal"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird"
+  },
+  {
+    "name": "Green-Winged Teal - Bronze",
+    "category": [
+      "Green-Winged Teal"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird"
+  },
+  {
+    "name": "Green-Winged Teal - Silver",
+    "category": [
+      "Green-Winged Teal"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird"
+  },
+  {
+    "name": "Green-Winged Teal - Gold",
+    "category": [
+      "Green-Winged Teal"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Green-Winged Teal - Diamond (480)",
+    "category": [
+      "Green-Winged Teal"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Greylag Goose",
+    "category": [
+      "Greylag Goose"
+    ],
+    "requires": "|Revontuli Coast| OR |Sundarpatan| OR |Salzwiesen Park|",
+    "region": "Class1"
+  },
+  {
+    "name": "Greylag Goose - Bronze",
+    "category": [
+      "Greylag Goose"
+    ],
+    "requires": "|Revontuli Coast| OR |Sundarpatan| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Greylag Goose - Silver",
+    "category": [
+      "Greylag Goose"
+    ],
+    "requires": "|Revontuli Coast| OR |Sundarpatan| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Greylag Goose - Gold",
+    "category": [
+      "Greylag Goose"
+    ],
+    "requires": "|Revontuli Coast| OR |Sundarpatan| OR |Salzwiesen Park|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Greylag Goose - Diamond (3.85)",
+    "category": [
+      "Greylag Goose"
+    ],
+    "requires": "|Revontuli Coast| OR |Sundarpatan| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Harlequin Duck",
+    "category": [
+      "Harlequin Duck"
+    ],
+    "requires": "|Yukon Valley|",
+    "region": "Bird"
+  },
+  {
+    "name": "Harlequin Duck - Bronze",
+    "category": [
+      "Harlequin Duck"
+    ],
+    "requires": "|Yukon Valley|",
+    "region": "Bird"
+  },
+  {
+    "name": "Harlequin Duck - Silver",
+    "category": [
+      "Harlequin Duck"
+    ],
+    "requires": "|Yukon Valley|",
+    "region": "Bird"
+  },
+  {
+    "name": "Harlequin Duck - Gold",
+    "category": [
+      "Harlequin Duck"
+    ],
+    "requires": "|Yukon Valley|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Harlequin Duck - Diamond (7.23)",
+    "category": [
+      "Harlequin Duck"
+    ],
+    "requires": "|Yukon Valley|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Magpie Goose",
+    "category": [
+      "Magpie Goose"
+    ],
+    "requires": "|Emerald Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Magpie Goose - Bronze",
+    "category": [
+      "Magpie Goose"
+    ],
+    "requires": "|Emerald Coast|",
+    "region": "Bird"
+  },
+  {
+    "name": "Magpie Goose - Silver",
+    "category": [
+      "Magpie Goose"
+    ],
+    "requires": "|Emerald Coast|",
+    "region": "Bird"
+  },
+  {
+    "name": "Magpie Goose - Gold",
+    "category": [
+      "Magpie Goose"
+    ],
+    "requires": "|Emerald Coast|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Magpie Goose - Diamond (3.85)",
+    "category": [
+      "Magpie Goose"
+    ],
+    "requires": "|Emerald Coast|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Mallard",
+    "category": [
+      "Mallard"
+    ],
+    "requires": "|Layton Lake District| OR |Te Awaroa National Park| OR |Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Mallard - Bronze",
+    "category": [
+      "Mallard"
+    ],
+    "requires": "|Layton Lake District| OR |Te Awaroa National Park| OR |Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Mallard - Silver",
+    "category": [
+      "Mallard"
+    ],
+    "requires": "|Layton Lake District| OR |Te Awaroa National Park| OR |Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Mallard - Gold",
+    "category": [
+      "Mallard"
+    ],
+    "requires": "|Layton Lake District| OR |Te Awaroa National Park| OR |Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Mallard - Diamond (19.61)",
+    "category": [
+      "Mallard"
+    ],
+    "requires": "|Layton Lake District| OR |Te Awaroa National Park| OR |Revontuli Coast| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Tufted Duck",
+    "category": [
+      "Tufted Duck"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Tufted Duck - Bronze",
+    "category": [
+      "Tufted Duck"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Tufted Duck - Silver",
+    "category": [
+      "Tufted Duck"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Tufted Duck - Gold",
+    "category": [
+      "Tufted Duck"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Tufted Duck - Diamond (963)",
+    "category": [
+      "Tufted Duck"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Ferruginous Duck",
+    "category": [
+      "Ferruginous Duck"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Ferruginous Duck - Bronze",
+    "category": [
+      "Ferruginous Duck"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Ferruginous Duck - Silver",
+    "category": [
+      "Ferruginous Duck"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Ferruginous Duck - Gold",
+    "category": [
+      "Ferruginous Duck"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Ferruginous Duck - Diamond (1050)",
+    "category": [
+      "Ferruginous Duck"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Gadwall",
+    "category": [
+      "Gadwall"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Gadwall - Bronze",
+    "category": [
+      "Gadwall"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Gadwall - Silver",
+    "category": [
+      "Gadwall"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Gadwall - Gold",
+    "category": [
+      "Gadwall"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Gadwall - Diamond (1050)",
+    "category": [
+      "Gadwall"
+    ],
+    "requires": "|Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Tundra Bean Goose",
+    "category": [
+      "Tundra Bean Goose"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Tundra Bean Goose - Bronze",
+    "category": [
+      "Tundra Bean Goose"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Bird"
+  },
+  {
+    "name": "Tundra Bean Goose - Silver",
+    "category": [
+      "Tundra Bean Goose"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Bird"
+  },
+  {
+    "name": "Tundra Bean Goose - Gold",
+    "category": [
+      "Tundra Bean Goose"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Tundra Bean Goose - Diamond (3.16)",
+    "category": [
+      "Tundra Bean Goose"
+    ],
+    "requires": "|Revontuli Coast|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Black Grouse",
+    "category": [
+      "Black Grouse"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Class1"
+  },
+  {
+    "name": "Black Grouse - Bronze",
+    "category": [
+      "Black Grouse"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Class1"
+  },
+  {
+    "name": "Black Grouse - Silver",
+    "category": [
+      "Black Grouse"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Class1"
+  },
+  {
+    "name": "Black Grouse - Gold",
+    "category": [
+      "Black Grouse"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Black Grouse - Diamond (120)",
+    "category": [
+      "Black Grouse"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Bobwhite Quail",
+    "category": [
+      "Bobwhite Quail"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class1"
+  },
+  {
+    "name": "Bobwhite Quail - Bronze",
+    "category": [
+      "Bobwhite Quail"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird_flying"
+  },
+  {
+    "name": "Bobwhite Quail - Silver",
+    "category": [
+      "Bobwhite Quail"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird_flying"
+  },
+  {
+    "name": "Bobwhite Quail - Gold",
+    "category": [
+      "Bobwhite Quail"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird_flying_GD"
+  },
+  {
+    "name": "Bobwhite Quail - Diamond (238)",
+    "category": [
+      "Bobwhite Quail"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_flying_GD"
+  },
+  {
+    "name": "Eastern Wild Turkey",
+    "category": [
+      "Eastern Wild Turkey"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class1"
+  },
+  {
+    "name": "Eastern Wild Turkey - Bronze",
+    "category": [
+      "Eastern Wild Turkey"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird"
+  },
+  {
+    "name": "Eastern Wild Turkey - Silver",
+    "category": [
+      "Eastern Wild Turkey"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird"
+  },
+  {
+    "name": "Eastern Wild Turkey - Gold",
+    "category": [
+      "Eastern Wild Turkey"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Eastern Wild Turkey - Diamond (4.6)",
+    "category": [
+      "Eastern Wild Turkey"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Hazel Grouse",
+    "category": [
+      "Hazel Grouse"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Hazel Grouse - Bronze",
+    "category": [
+      "Hazel Grouse"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Hazel Grouse - Silver",
+    "category": [
+      "Hazel Grouse"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Hazel Grouse - Gold",
+    "category": [
+      "Hazel Grouse"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Hazel Grouse - Diamond (435)",
+    "category": [
+      "Hazel Grouse"
+    ],
+    "requires": "|Revontuli Coast|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Merriam Turkey",
+    "category": [
+      "Merriam Turkey"
+    ],
+    "requires": "|Layton Lake District| OR |Silver Ridge Peaks| OR |Te Awaroa National Park|",
+    "region": "Class1"
+  },
+  {
+    "name": "Merriam Turkey - Bronze",
+    "category": [
+      "Merriam Turkey"
+    ],
+    "requires": "|Layton Lake District| OR |Silver Ridge Peaks| OR |Te Awaroa National Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Merriam Turkey - Silver",
+    "category": [
+      "Merriam Turkey"
+    ],
+    "requires": "|Layton Lake District| OR |Silver Ridge Peaks| OR |Te Awaroa National Park|",
+    "region": "Bird"
+  },
+  {
+    "name": "Merriam Turkey - Gold",
+    "category": [
+      "Merriam Turkey"
+    ],
+    "requires": "|Layton Lake District| OR |Silver Ridge Peaks| OR |Te Awaroa National Park|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Merriam Turkey - Diamond (4.62)",
+    "category": [
+      "Merriam Turkey"
+    ],
+    "requires": "|Layton Lake District| OR |Silver Ridge Peaks| OR |Te Awaroa National Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Ring-Necked Pheasant",
+    "category": [
+      "Ring-Necked Pheasant"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve| OR |Rancho del Arroyo| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Ring-Necked Pheasant - Bronze",
+    "category": [
+      "Ring-Necked Pheasant"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve| OR |Rancho del Arroyo| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Ring-Necked Pheasant - Silver",
+    "category": [
+      "Ring-Necked Pheasant"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve| OR |Rancho del Arroyo| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Ring-Necked Pheasant - Gold",
+    "category": [
+      "Ring-Necked Pheasant"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve| OR |Rancho del Arroyo| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "region": "Bird_flying_GD"
+  },
+  {
+    "name": "Ring-Necked Pheasant - Diamond (20.30)",
+    "category": [
+      "Ring-Necked Pheasant"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve| OR |Rancho del Arroyo| OR |New England Mountains| OR |Salzwiesen Park| OR |Askiy Ridge Hunting Preserve|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_flying_GD"
+  },
+  {
+    "name": "Rio Grande Turkey",
+    "category": [
+      "Rio Grande Turkey"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class1"
+  },
+  {
+    "name": "Rio Grande Turkey - Bronze",
+    "category": [
+      "Rio Grande Turkey"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Bird"
+  },
+  {
+    "name": "Rio Grande Turkey - Silver",
+    "category": [
+      "Rio Grande Turkey"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Bird"
+  },
+  {
+    "name": "Rio Grande Turkey - Gold",
+    "category": [
+      "Rio Grande Turkey"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Rio Grande Turkey - Diamond (4.6)",
+    "category": [
+      "Rio Grande Turkey"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Rock Ptarmigan",
+    "category": [
+      "Rock Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Rock Ptarmigan - Bronze",
+    "category": [
+      "Rock Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Rock Ptarmigan - Silver",
+    "category": [
+      "Rock Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Rock Ptarmigan - Gold",
+    "category": [
+      "Rock Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Rock Ptarmigan - Diamond (709)",
+    "category": [
+      "Rock Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Stubble Quail",
+    "category": [
+      "Stubble Quail"
+    ],
+    "requires": "|Emerald Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Stubble Quail - Bronze",
+    "category": [
+      "Stubble Quail"
+    ],
+    "requires": "|Emerald Coast|",
+    "region": "Bird_flying"
+  },
+  {
+    "name": "Stubble Quail - Silver",
+    "category": [
+      "Stubble Quail"
+    ],
+    "requires": "|Emerald Coast|",
+    "region": "Bird_flying"
+  },
+  {
+    "name": "Stubble Quail - Gold",
+    "category": [
+      "Stubble Quail"
+    ],
+    "requires": "|Emerald Coast|",
+    "region": "Bird_flying_GD"
+  },
+  {
+    "name": "Stubble Quail - Diamond (238)",
+    "category": [
+      "Stubble Quail"
+    ],
+    "requires": "|Emerald Coast|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_flying_GD"
+  },
+  {
+    "name": "Western Capercaillie",
+    "category": [
+      "Western Capercaillie"
+    ],
+    "requires": "|Medved-Taiga National Park| OR |Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Western Capercaillie - Bronze",
+    "category": [
+      "Western Capercaillie"
+    ],
+    "requires": "|Medved-Taiga National Park| OR |Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Western Capercaillie - Silver",
+    "category": [
+      "Western Capercaillie"
+    ],
+    "requires": "|Medved-Taiga National Park| OR |Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Western Capercaillie - Gold",
+    "category": [
+      "Western Capercaillie"
+    ],
+    "requires": "|Medved-Taiga National Park| OR |Revontuli Coast|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Western Capercaillie - Diamond (4.64)",
+    "category": [
+      "Western Capercaillie"
+    ],
+    "requires": "|Medved-Taiga National Park| OR |Revontuli Coast|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Willow Ptarmigan",
+    "category": [
+      "Willow Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Willow Ptarmigan - Bronze",
+    "category": [
+      "Willow Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Willow Ptarmigan - Silver",
+    "category": [
+      "Willow Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Willow Ptarmigan - Gold",
+    "category": [
+      "Willow Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Willow Ptarmigan - Diamond (772)",
+    "category": [
+      "Willow Ptarmigan"
+    ],
+    "requires": "|Revontuli Coast|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Antelope Jackrabbit",
+    "category": [
+      "Antelope Jackrabbit"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class1"
+  },
+  {
+    "name": "Antelope Jackrabbit - Bronze",
+    "category": [
+      "Antelope Jackrabbit"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class1"
+  },
+  {
+    "name": "Antelope Jackrabbit - Silver",
+    "category": [
+      "Antelope Jackrabbit"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class1"
+  },
+  {
+    "name": "Antelope Jackrabbit - Gold",
+    "category": [
+      "Antelope Jackrabbit"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Antelope Jackrabbit - Diamond (6.3)",
+    "category": [
+      "Antelope Jackrabbit"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Eastern Cottontail Rabbit",
+    "category": [
+      "Eastern Cottontail Rabbit"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class1"
+  },
+  {
+    "name": "Eastern Cottontail Rabbit - Bronze",
+    "category": [
+      "Eastern Cottontail Rabbit"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class1"
+  },
+  {
+    "name": "Eastern Cottontail Rabbit - Silver",
+    "category": [
+      "Eastern Cottontail Rabbit"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class1"
+  },
+  {
+    "name": "Eastern Cottontail Rabbit - Gold",
+    "category": [
+      "Eastern Cottontail Rabbit"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Eastern Cottontail Rabbit - Diamond (1.97)",
+    "category": [
+      "Eastern Cottontail Rabbit"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "European Hare",
+    "category": [
+      "European Hare"
+    ],
+    "requires": "|Cuatro Colinas Game Reserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "European Hare - Bronze",
+    "category": [
+      "European Hare"
+    ],
+    "requires": "|Cuatro Colinas Game Reserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "European Hare - Silver",
+    "category": [
+      "European Hare"
+    ],
+    "requires": "|Cuatro Colinas Game Reserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "European Hare - Gold",
+    "category": [
+      "European Hare"
+    ],
+    "requires": "|Cuatro Colinas Game Reserve|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "European Hare - Diamond (6.5)",
+    "category": [
+      "European Hare"
+    ],
+    "requires": "|Cuatro Colinas Game Reserve|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "European Rabbit",
+    "category": [
+      "European Rabbit"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Salzwiesen Park|",
+    "region": "Class1"
+  },
+  {
+    "name": "European Rabbit - Bronze",
+    "category": [
+      "European Rabbit"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Salzwiesen Park|",
+    "region": "Class1"
+  },
+  {
+    "name": "European Rabbit - Silver",
+    "category": [
+      "European Rabbit"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Salzwiesen Park|",
+    "region": "Class1"
+  },
+  {
+    "name": "European Rabbit - Gold",
+    "category": [
+      "European Rabbit"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Salzwiesen Park|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "European Rabbit - Diamond (2.42)",
+    "category": [
+      "European Rabbit"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Mountain Hare",
+    "category": [
+      "Mountain Hare"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Mountain Hare - Bronze",
+    "category": [
+      "Mountain Hare"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Mountain Hare - Silver",
+    "category": [
+      "Mountain Hare"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1"
+  },
+  {
+    "name": "Mountain Hare - Gold",
+    "category": [
+      "Mountain Hare"
+    ],
+    "requires": "|Revontuli Coast|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Mountain Hare - Diamond (5.6)",
+    "category": [
+      "Mountain Hare"
+    ],
+    "requires": "|Revontuli Coast|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Scrub Hare",
+    "category": [
+      "Scrub Hare"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "region": "Class1"
+  },
+  {
+    "name": "Scrub Hare - Bronze",
+    "category": [
+      "Scrub Hare"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "region": "Class1"
+  },
+  {
+    "name": "Scrub Hare - Silver",
+    "category": [
+      "Scrub Hare"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "region": "Class1"
+  },
+  {
+    "name": "Scrub Hare - Gold",
+    "category": [
+      "Scrub Hare"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Scrub Hare - Diamond (5.3)",
+    "category": [
+      "Scrub Hare"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "White-Tailed Jackrabbit",
+    "category": [
+      "White-Tailed Jackrabbit"
+    ],
+    "requires": "|Layton Lake District|",
+    "region": "Class1"
+  },
+  {
+    "name": "White-Tailed Jackrabbit - Bronze",
+    "category": [
+      "White-Tailed Jackrabbit"
+    ],
+    "requires": "|Layton Lake District|",
+    "region": "Class1"
+  },
+  {
+    "name": "White-Tailed Jackrabbit - Silver",
+    "category": [
+      "White-Tailed Jackrabbit"
+    ],
+    "requires": "|Layton Lake District|",
+    "region": "Class1"
+  },
+  {
+    "name": "White-Tailed Jackrabbit - Gold",
+    "category": [
+      "White-Tailed Jackrabbit"
+    ],
+    "requires": "|Layton Lake District|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "White-Tailed Jackrabbit - Diamond (6.3)",
+    "category": [
+      "White-Tailed Jackrabbit"
+    ],
+    "requires": "|Layton Lake District|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Wooly Hare",
+    "category": [
+      "Wooly Hare"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class1"
+  },
+  {
+    "name": "Wooly Hare - Bronze",
+    "category": [
+      "Wooly Hare"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class1"
+  },
+  {
+    "name": "Wooly Hare - Silver",
+    "category": [
+      "Wooly Hare"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class1"
+  },
+  {
+    "name": "Wooly Hare - Gold",
+    "category": [
+      "Wooly Hare"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Wooly Hare - Diamond (3.28)",
+    "category": [
+      "Wooly Hare"
+    ],
+    "requires": "|Sundarpatan|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Northern Red Muntjac",
+    "category": [
+      "Northern Red Muntjac"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class2"
+  },
+  {
+    "name": "Northern Red Muntjac - Bronze",
+    "category": [
+      "Northern Red Muntjac"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class2"
+  },
+  {
+    "name": "Northern Red Muntjac - Silver",
+    "category": [
+      "Northern Red Muntjac"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class2"
+  },
+  {
+    "name": "Northern Red Muntjac - Gold",
+    "category": [
+      "Northern Red Muntjac"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Northern Red Muntjac - Diamond (35.24)",
+    "category": [
+      "Northern Red Muntjac"
+    ],
+    "requires": "|Sundarpatan|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Siberian Musk Deer",
+    "category": [
+      "Siberian Musk Deer"
+    ],
+    "requires": "|Medved-Taiga National Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Siberian Musk Deer - Bronze",
+    "category": [
+      "Siberian Musk Deer"
+    ],
+    "requires": "|Medved-Taiga National Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Siberian Musk Deer - Silver",
+    "category": [
+      "Siberian Musk Deer"
+    ],
+    "requires": "|Medved-Taiga National Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Siberian Musk Deer - Gold",
+    "category": [
+      "Siberian Musk Deer"
+    ],
+    "requires": "|Medved-Taiga National Park|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Siberian Musk Deer - Diamond (249)",
+    "category": [
+      "Siberian Musk Deer"
+    ],
+    "requires": "|Medved-Taiga National Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Raccoon Dog",
+    "category": [
+      "Raccoon Dog"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Raccoon Dog - Bronze",
+    "category": [
+      "Raccoon Dog"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Raccoon Dog - Silver",
+    "category": [
+      "Raccoon Dog"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Raccoon Dog - Gold",
+    "category": [
+      "Raccoon Dog"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Raccoon Dog - Diamond (9.29)",
+    "category": [
+      "Raccoon Dog"
+    ],
+    "requires": "|Revontuli Coast| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Coyote",
+    "category": [
+      "Coyote"
+    ],
+    "requires": "|Layton Lake District| OR |Rancho del Arroyo| OR |New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Coyote - Bronze",
+    "category": [
+      "Coyote"
+    ],
+    "requires": "|Layton Lake District| OR |Rancho del Arroyo| OR |New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Coyote - Silver",
+    "category": [
+      "Coyote"
+    ],
+    "requires": "|Layton Lake District| OR |Rancho del Arroyo| OR |New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Coyote - Gold",
+    "category": [
+      "Coyote"
+    ],
+    "requires": "|Layton Lake District| OR |Rancho del Arroyo| OR |New England Mountains|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Coyote - Diamond (56.8)",
+    "category": [
+      "Coyote"
+    ],
+    "requires": "|Layton Lake District| OR |Rancho del Arroyo| OR |New England Mountains|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Side-Striped Jackal",
+    "category": [
+      "Side-Striped Jackal"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "region": "Class2"
+  },
+  {
+    "name": "Side-Striped Jackal - Bronze",
+    "category": [
+      "Side-Striped Jackal"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "region": "Class2"
+  },
+  {
+    "name": "Side-Striped Jackal - Silver",
+    "category": [
+      "Side-Striped Jackal"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "region": "Class2"
+  },
+  {
+    "name": "Side-Striped Jackal - Gold",
+    "category": [
+      "Side-Striped Jackal"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Side-Striped Jackal - Diamond (29.1)",
+    "category": [
+      "Side-Striped Jackal"
+    ],
+    "requires": "|Vurhonga Savanna|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Gray Fox",
+    "category": [
+      "Gray Fox"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Gray Fox - Bronze",
+    "category": [
+      "Gray Fox"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Gray Fox - Silver",
+    "category": [
+      "Gray Fox"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Gray Fox - Gold",
+    "category": [
+      "Gray Fox"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Gray Fox - Diamond (6.43)",
+    "category": [
+      "Gray Fox"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Red Fox",
+    "category": [
+      "Red Fox"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |New England Mountains| OR |Emerald Coast| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Red Fox - Bronze",
+    "category": [
+      "Red Fox"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |New England Mountains| OR |Emerald Coast| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Red Fox - Silver",
+    "category": [
+      "Red Fox"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |New England Mountains| OR |Emerald Coast| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Red Fox - Gold",
+    "category": [
+      "Red Fox"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |New England Mountains| OR |Emerald Coast| OR |Salzwiesen Park|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Red Fox - Diamond (14.05)",
+    "category": [
+      "Red Fox"
+    ],
+    "requires": "|Hirschfelden Hunting Reserve| OR |Yukon Valley| OR |New England Mountains| OR |Emerald Coast| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Tibetan Fox",
+    "category": [
+      "Tibetan Fox"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class2"
+  },
+  {
+    "name": "Tibetan Fox - Bronze",
+    "category": [
+      "Tibetan Fox"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class2"
+  },
+  {
+    "name": "Tibetan Fox - Silver",
+    "category": [
+      "Tibetan Fox"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class2"
+  },
+  {
+    "name": "Tibetan Fox - Gold",
+    "category": [
+      "Tibetan Fox"
+    ],
+    "requires": "|Sundarpatan|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Tibetan Fox - Diamond (6.37)",
+    "category": [
+      "Tibetan Fox"
+    ],
+    "requires": "|Sundarpatan|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Common Raccoon",
+    "category": [
+      "Common Raccoon"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Common Raccoon - Bronze",
+    "category": [
+      "Common Raccoon"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Common Raccoon - Silver",
+    "category": [
+      "Common Raccoon"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains| OR |Salzwiesen Park|",
+    "region": "Class2"
+  },
+  {
+    "name": "Common Raccoon - Gold",
+    "category": [
+      "Common Raccoon"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains| OR |Salzwiesen Park|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Common Raccoon - Diamond (12)",
+    "category": [
+      "Common Raccoon"
+    ],
+    "requires": "|Mississippi Acres Preserve| OR |New England Mountains| OR |Salzwiesen Park|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Bobcat",
+    "category": [
+      "Bobcat"
+    ],
+    "requires": "|New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Bobcat - Bronze",
+    "category": [
+      "Bobcat"
+    ],
+    "requires": "|New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Bobcat - Silver",
+    "category": [
+      "Bobcat"
+    ],
+    "requires": "|New England Mountains|",
+    "region": "Class2"
+  },
+  {
+    "name": "Bobcat - Gold",
+    "category": [
+      "Bobcat"
+    ],
+    "requires": "|New England Mountains|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Bobcat - Diamond (27.68)",
+    "category": [
+      "Bobcat"
+    ],
+    "requires": "|New England Mountains|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Mexican Bobcat",
+    "category": [
+      "Mexican Bobcat"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class2"
+  },
+  {
+    "name": "Mexican Bobcat - Bronze",
+    "category": [
+      "Mexican Bobcat"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class2"
+  },
+  {
+    "name": "Mexican Bobcat - Silver",
+    "category": [
+      "Mexican Bobcat"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class2"
+  },
+  {
+    "name": "Mexican Bobcat - Gold",
+    "category": [
+      "Mexican Bobcat"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Mexican Bobcat - Diamond (27.68)",
+    "category": [
+      "Mexican Bobcat"
+    ],
+    "requires": "|Rancho del Arroyo|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class2_GD"
+  },
+  {
+    "name": "Axis Deer",
+    "category": [
+      "Axis Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Axis Deer - Bronze",
+    "category": [
+      "Axis Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Axis Deer - Silver",
+    "category": [
+      "Axis Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Emerald Coast|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Axis Deer - Gold",
+    "category": [
+      "Axis Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Emerald Coast|) AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Axis Deer - Diamond (217.2)",
+    "category": [
+      "Axis Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Emerald Coast|) AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Hog Deer",
+    "category": [
+      "Hog Deer"
+    ],
+    "requires": "|Class 3 Permit| AND |Emerald Coast|",
+    "region": "Starting"
+  },
+  {
+    "name": "Hog Deer - Bronze",
+    "category": [
+      "Hog Deer"
+    ],
+    "requires": "|Class 3 Permit| AND |Emerald Coast|",
+    "region": "Starting"
+  },
+  {
+    "name": "Hog Deer - Silver",
+    "category": [
+      "Hog Deer"
+    ],
+    "requires": "|Class 3 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Hog Deer - Gold",
+    "category": [
+      "Hog Deer"
+    ],
+    "requires": "|Class 3 Permit| AND |Emerald Coast| AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Hog Deer - Diamond (108.68)",
+    "category": [
+      "Hog Deer"
+    ],
+    "requires": "|Class 3 Permit| AND |Emerald Coast| AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Roe Deer",
+    "category": [
+      "Roe Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Roe Deer - Bronze",
+    "category": [
+      "Roe Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Roe Deer - Silver",
+    "category": [
+      "Roe Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Roe Deer - Gold",
+    "category": [
+      "Roe Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve|) AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Roe Deer - Diamond (81.8)",
+    "category": [
+      "Roe Deer"
+    ],
+    "requires": "|Class 3 Permit| AND (|Hirschfelden Hunting Reserve| OR |Cuatro Colinas Game Reserve|) AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Blackbuck",
+    "category": [
+      "Blackbuck"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Sundarpatan|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Blackbuck - Bronze",
+    "category": [
+      "Blackbuck"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Sundarpatan|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Blackbuck - Silver",
+    "category": [
+      "Blackbuck"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Sundarpatan|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Blackbuck - Gold",
+    "category": [
+      "Blackbuck"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Sundarpatan|) AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Blackbuck - Diamond (132.2)",
+    "category": [
+      "Blackbuck"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Sundarpatan|) AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Springbok",
+    "category": [
+      "Springbok"
+    ],
+    "requires": "|Class 3 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Springbok - Bronze",
+    "category": [
+      "Springbok"
+    ],
+    "requires": "|Class 3 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Springbok - Silver",
+    "category": [
+      "Springbok"
+    ],
+    "requires": "|Class 3 Permit| AND |Vurhonga Savanna|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Springbok - Gold",
+    "category": [
+      "Springbok"
+    ],
+    "requires": "|Class 3 Permit| AND |Vurhonga Savanna| AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Springbok - Diamond (78.55)",
+    "category": [
+      "Springbok"
+    ],
+    "requires": "|Class 3 Permit| AND |Vurhonga Savanna| AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Pronghorn",
+    "category": [
+      "Pronghorn"
+    ],
+    "requires": "|Class 3 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Pronghorn - Bronze",
+    "category": [
+      "Pronghorn"
+    ],
+    "requires": "|Class 3 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Pronghorn - Silver",
+    "category": [
+      "Pronghorn"
+    ],
+    "requires": "|Class 3 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Pronghorn - Gold",
+    "category": [
+      "Pronghorn"
+    ],
+    "requires": "|Class 3 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|) AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Pronghorn - Diamond (108)",
+    "category": [
+      "Pronghorn"
+    ],
+    "requires": "|Class 3 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|) AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Feral Goat",
+    "category": [
+      "Feral Goat"
+    ],
+    "requires": "|Class 3 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Feral Goat - Bronze",
+    "category": [
+      "Feral Goat"
+    ],
+    "requires": "|Class 3 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Feral Goat - Silver",
+    "category": [
+      "Feral Goat"
+    ],
+    "requires": "|Class 3 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Feral Goat - Gold",
+    "category": [
+      "Feral Goat"
+    ],
+    "requires": "|Class 3 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|) AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Feral Goat - Diamond (208.71)",
+    "category": [
+      "Feral Goat"
+    ],
+    "requires": "|Class 3 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|) AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Chamois",
+    "category": [
+      "Chamois"
+    ],
+    "requires": "|Class 3 Permit| AND |Te Awaroa National Park|",
+    "region": "Starting"
+  },
+  {
+    "name": "Chamois - Bronze",
+    "category": [
+      "Chamois"
+    ],
+    "requires": "|Class 3 Permit| AND |Te Awaroa National Park|",
+    "region": "Starting"
+  },
+  {
+    "name": "Chamois - Silver",
+    "category": [
+      "Chamois"
+    ],
+    "requires": "|Class 3 Permit| AND |Te Awaroa National Park|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Chamois - Gold",
+    "category": [
+      "Chamois"
+    ],
+    "requires": "|Class 3 Permit| AND |Te Awaroa National Park| AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Chamois - Diamond (58)",
+    "category": [
+      "Chamois"
+    ],
+    "requires": "|Class 3 Permit| AND |Te Awaroa National Park| AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Eurasian Lynx",
+    "category": [
+      "Eurasian Lynx"
+    ],
+    "requires": "|Class 3 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Eurasian Lynx - Bronze",
+    "category": [
+      "Eurasian Lynx"
+    ],
+    "requires": "|Class 3 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Eurasian Lynx - Silver",
+    "category": [
+      "Eurasian Lynx"
+    ],
+    "requires": "|Class 3 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Eurasian Lynx - Gold",
+    "category": [
+      "Eurasian Lynx"
+    ],
+    "requires": "|Class 3 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Eurasian Lynx - Diamond (27.68)",
+    "category": [
+      "Eurasian Lynx"
+    ],
+    "requires": "|Class 3 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Collared Peccary",
+    "category": [
+      "Collared Peccary"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Rancho del Arroyo|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Collared Peccary - Bronze",
+    "category": [
+      "Collared Peccary"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Rancho del Arroyo|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Collared Peccary - Silver",
+    "category": [
+      "Collared Peccary"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Rancho del Arroyo|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Collared Peccary - Gold",
+    "category": [
+      "Collared Peccary"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Rancho del Arroyo|) AND |@Gun-Class 3:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Collared Peccary - Diamond (144.20)",
+    "category": [
+      "Collared Peccary"
+    ],
+    "requires": "|Class 3 Permit| AND (|Parque Fernando| OR |Rancho del Arroyo|) AND |@Gun-Class 3:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Blacktail Deer",
+    "category": [
+      "Blacktail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Layton Lake District|",
+    "region": "Starting"
+  },
+  {
+    "name": "Blacktail Deer - Bronze",
+    "category": [
+      "Blacktail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Layton Lake District|",
+    "region": "Starting"
+  },
+  {
+    "name": "Blacktail Deer - Silver",
+    "category": [
+      "Blacktail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Layton Lake District|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Blacktail Deer - Gold",
+    "category": [
+      "Blacktail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Layton Lake District| AND |@Gun-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Blacktail Deer - Diamond (177.5)",
+    "category": [
+      "Blacktail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Layton Lake District| AND |@Gun-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Whitetail Deer",
+    "category": [
+      "Whitetail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Layton Lake District| OR |Rancho del Arroyo| OR |Mississippi Acres Preserve| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Whitetail Deer - Bronze",
+    "category": [
+      "Whitetail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Layton Lake District| OR |Rancho del Arroyo| OR |Mississippi Acres Preserve| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Whitetail Deer - Silver",
+    "category": [
+      "Whitetail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Layton Lake District| OR |Rancho del Arroyo| OR |Mississippi Acres Preserve| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Whitetail Deer - Gold",
+    "category": [
+      "Whitetail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Layton Lake District| OR |Rancho del Arroyo| OR |Mississippi Acres Preserve| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Gun-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Whitetail Deer - Diamond (255.09)",
+    "category": [
+      "Whitetail Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Layton Lake District| OR |Rancho del Arroyo| OR |Mississippi Acres Preserve| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Gun-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Fallow Deer",
+    "category": [
+      "Fallow Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Fallow Deer - Bronze",
+    "category": [
+      "Fallow Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Fallow Deer - Silver",
+    "category": [
+      "Fallow Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Fallow Deer - Gold",
+    "category": [
+      "Fallow Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|) AND |@Gun-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Fallow Deer - Diamond (249.99)",
+    "category": [
+      "Fallow Deer"
+    ],
+    "requires": "|Class 4 Permit| AND (|Hirschfelden Hunting Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|) AND |@Gun-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Sika Deer",
+    "category": [
+      "Sika Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Te Awaroa National Park|",
+    "region": "Starting"
+  },
+  {
+    "name": "Sika Deer - Bronze",
+    "category": [
+      "Sika Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Te Awaroa National Park|",
+    "region": "Starting"
+  },
+  {
+    "name": "Sika Deer - Silver",
+    "category": [
+      "Sika Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Te Awaroa National Park|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Sika Deer - Gold",
+    "category": [
+      "Sika Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Te Awaroa National Park| AND |@Gun-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Sika Deer - Diamond (198.74)",
+    "category": [
+      "Sika Deer"
+    ],
+    "requires": "|Class 4 Permit| AND |Te Awaroa National Park| AND |@Gun-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Lesser Kudu",
+    "category": [
+      "Lesser Kudu"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Lesser Kudu - Bronze",
+    "category": [
+      "Lesser Kudu"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Lesser Kudu - Silver",
+    "category": [
+      "Lesser Kudu"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Lesser Kudu - Gold",
+    "category": [
+      "Lesser Kudu"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Lesser Kudu - Diamond (151.6)",
+    "category": [
+      "Lesser Kudu"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna| AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mountain Goat",
+    "category": [
+      "Mountain Goat"
+    ],
+    "requires": "|Class 4 Permit| AND (|Silver Ridge Peaks| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Mountain Goat - Bronze",
+    "category": [
+      "Mountain Goat"
+    ],
+    "requires": "|Class 4 Permit| AND (|Silver Ridge Peaks| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Mountain Goat - Silver",
+    "category": [
+      "Mountain Goat"
+    ],
+    "requires": "|Class 4 Permit| AND (|Silver Ridge Peaks| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Mountain Goat - Gold",
+    "category": [
+      "Mountain Goat"
+    ],
+    "requires": "|Class 4 Permit| AND (|Silver Ridge Peaks| OR |Askiy Ridge Hunting Preserve|) AND |@Gun-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mountain Goat - Diamond (107.67)",
+    "category": [
+      "Mountain Goat"
+    ],
+    "requires": "|Class 4 Permit| AND (|Silver Ridge Peaks| OR |Askiy Ridge Hunting Preserve|) AND |@Gun-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Beceite Ibex",
+    "category": [
+      "Beceite Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Beceite Ibex - Bronze",
+    "category": [
+      "Beceite Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Beceite Ibex - Silver",
+    "category": [
+      "Beceite Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Beceite Ibex - Gold",
+    "category": [
+      "Beceite Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Beceite Ibex - Diamond (191.6)",
+    "category": [
+      "Beceite Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Ronda Ibex",
+    "category": [
+      "Ronda Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Ronda Ibex - Bronze",
+    "category": [
+      "Ronda Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Ronda Ibex - Silver",
+    "category": [
+      "Ronda Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Ronda Ibex - Gold",
+    "category": [
+      "Ronda Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Ronda Ibex - Diamond (107.9)",
+    "category": [
+      "Ronda Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Gredos Ibex",
+    "category": [
+      "Gredos Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Gredos Ibex - Bronze",
+    "category": [
+      "Gredos Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Gredos Ibex - Silver",
+    "category": [
+      "Gredos Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Gredos Ibex - Gold",
+    "category": [
+      "Gredos Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Gredos Ibex - Diamond (100.1)",
+    "category": [
+      "Gredos Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Southeastern Spanish Ibex",
+    "category": [
+      "Southeastern Spanish Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Southeastern Spanish Ibex - Bronze",
+    "category": [
+      "Southeastern Spanish Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Southeastern Spanish Ibex - Silver",
+    "category": [
+      "Southeastern Spanish Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Southeastern Spanish Ibex - Gold",
+    "category": [
+      "Southeastern Spanish Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Southeastern Spanish Ibex - Diamond (89.6)",
+    "category": [
+      "Southeastern Spanish Ibex"
+    ],
+    "requires": "|Class 4 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Blue Sheep",
+    "category": [
+      "Blue Sheep"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan|",
+    "region": "Starting"
+  },
+  {
+    "name": "Blue Sheep - Bronze",
+    "category": [
+      "Blue Sheep"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan|",
+    "region": "Starting"
+  },
+  {
+    "name": "Blue Sheep - Silver",
+    "category": [
+      "Blue Sheep"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Blue Sheep - Gold",
+    "category": [
+      "Blue Sheep"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Blue Sheep - Diamond (154.08)",
+    "category": [
+      "Blue Sheep"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan| AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Tahr",
+    "category": [
+      "Tahr"
+    ],
+    "requires": "|Class 4 Permit| AND (|Te Awaroa National Park| OR |Sundarpatan|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Tahr - Bronze",
+    "category": [
+      "Tahr"
+    ],
+    "requires": "|Class 4 Permit| AND (|Te Awaroa National Park| OR |Sundarpatan|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Tahr - Silver",
+    "category": [
+      "Tahr"
+    ],
+    "requires": "|Class 4 Permit| AND (|Te Awaroa National Park| OR |Sundarpatan|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Tahr - Gold",
+    "category": [
+      "Tahr"
+    ],
+    "requires": "|Class 4 Permit| AND (|Te Awaroa National Park| OR |Sundarpatan|) AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Tahr - Diamond (101.87)",
+    "category": [
+      "Tahr"
+    ],
+    "requires": "|Class 4 Permit| AND (|Te Awaroa National Park| OR |Sundarpatan|) AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Snow Leopard",
+    "category": [
+      "Snow Leopard"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Snow Leopard - Bronze",
+    "category": [
+      "Snow Leopard"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Snow Leopard - Silver",
+    "category": [
+      "Snow Leopard"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Snow Leopard - Gold",
+    "category": [
+      "Snow Leopard"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Snow Leopard - Diamond (29)",
+    "category": [
+      "Snow Leopard"
+    ],
+    "requires": "|Class 4 Permit| AND |Sundarpatan| AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Warthog",
+    "category": [
+      "Warthog"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Warthog - Bronze",
+    "category": [
+      "Warthog"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Warthog - Silver",
+    "category": [
+      "Warthog"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Warthog - Gold",
+    "category": [
+      "Warthog"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna| AND |@Gun-Class 4:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Warthog - Diamond (58.2)",
+    "category": [
+      "Warthog"
+    ],
+    "requires": "|Class 4 Permit| AND |Vurhonga Savanna| AND |@Gun-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Eastern Gray Kangaroo",
+    "category": [
+      "Eastern Gray Kangaroo"
+    ],
+    "requires": "|Class 4 Permit| AND |Emerald Coast|",
+    "region": "Starting"
+  },
+  {
+    "name": "Eastern Gray Kangaroo - Bronze",
+    "category": [
+      "Eastern Gray Kangaroo"
+    ],
+    "requires": "|Class 4 Permit| AND |Emerald Coast|",
+    "region": "Starting"
+  },
+  {
+    "name": "Eastern Gray Kangaroo - Silver",
+    "category": [
+      "Eastern Gray Kangaroo"
+    ],
+    "requires": "|Class 4 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Eastern Gray Kangaroo - Gold",
+    "category": [
+      "Eastern Gray Kangaroo"
+    ],
+    "requires": "|Class 4 Permit| AND |Emerald Coast| AND |@Rifle-Class 4:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Eastern Gray Kangaroo - Diamond (492)",
+    "category": [
+      "Eastern Gray Kangaroo"
+    ],
+    "requires": "|Class 4 Permit| AND |Emerald Coast| AND |@Rifle-Class 4:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Javan Rusa",
+    "category": [
+      "Javan Rusa"
+    ],
+    "requires": "|Class 5 Permit| AND |Emerald Coast|",
+    "region": "Starting"
+  },
+  {
+    "name": "Javan Rusa - Bronze",
+    "category": [
+      "Javan Rusa"
+    ],
+    "requires": "|Class 5 Permit| AND |Emerald Coast|",
+    "region": "Starting"
+  },
+  {
+    "name": "Javan Rusa - Silver",
+    "category": [
+      "Javan Rusa"
+    ],
+    "requires": "|Class 5 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Javan Rusa - Gold",
+    "category": [
+      "Javan Rusa"
+    ],
+    "requires": "|Class 5 Permit| AND |Emerald Coast| AND |@Rifle-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Javan Rusa - Diamond (148.78)",
+    "category": [
+      "Javan Rusa"
+    ],
+    "requires": "|Class 5 Permit| AND |Emerald Coast| AND |@Rifle-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mule Deer",
+    "category": [
+      "Mule Deer"
+    ],
+    "requires": "|Class 5 Permit| AND (|Parque Fernando| OR |Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Mule Deer - Bronze",
+    "category": [
+      "Mule Deer"
+    ],
+    "requires": "|Class 5 Permit| AND (|Parque Fernando| OR |Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Mule Deer - Silver",
+    "category": [
+      "Mule Deer"
+    ],
+    "requires": "|Class 5 Permit| AND (|Parque Fernando| OR |Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Mule Deer - Gold",
+    "category": [
+      "Mule Deer"
+    ],
+    "requires": "|Class 5 Permit| AND (|Parque Fernando| OR |Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mule Deer - Diamond (312.17)",
+    "category": [
+      "Mule Deer"
+    ],
+    "requires": "|Class 5 Permit| AND (|Parque Fernando| OR |Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Iberian Mouflon",
+    "category": [
+      "Iberian Mouflon"
+    ],
+    "requires": "|Class 5 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Iberian Mouflon - Bronze",
+    "category": [
+      "Iberian Mouflon"
+    ],
+    "requires": "|Class 5 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Iberian Mouflon - Silver",
+    "category": [
+      "Iberian Mouflon"
+    ],
+    "requires": "|Class 5 Permit| AND |Cuatro Colinas Game Reserve|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Iberian Mouflon - Gold",
+    "category": [
+      "Iberian Mouflon"
+    ],
+    "requires": "|Class 5 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Iberian Mouflon - Diamond (179.56)",
+    "category": [
+      "Iberian Mouflon"
+    ],
+    "requires": "|Class 5 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Bighorn Sheep",
+    "category": [
+      "Bighorn Sheep"
+    ],
+    "requires": "|Class 5 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Bighorn Sheep - Bronze",
+    "category": [
+      "Bighorn Sheep"
+    ],
+    "requires": "|Class 5 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Bighorn Sheep - Silver",
+    "category": [
+      "Bighorn Sheep"
+    ],
+    "requires": "|Class 5 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Bighorn Sheep - Gold",
+    "category": [
+      "Bighorn Sheep"
+    ],
+    "requires": "|Class 5 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Bighorn Sheep - Diamond (196.64)",
+    "category": [
+      "Bighorn Sheep"
+    ],
+    "requires": "|Class 5 Permit| AND (|Silver Ridge Peaks| OR |Rancho del Arroyo| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mountain Lion",
+    "category": [
+      "Mountain Lion"
+    ],
+    "requires": "|Class 5 Permit| AND |Silver Ridge Peaks| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Mountain Lion - Bronze",
+    "category": [
+      "Mountain Lion"
+    ],
+    "requires": "|Class 5 Permit| AND |Silver Ridge Peaks| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Mountain Lion - Silver",
+    "category": [
+      "Mountain Lion"
+    ],
+    "requires": "|Class 5 Permit| AND |Silver Ridge Peaks| AND |@Rifle:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mountain Lion - Gold",
+    "category": [
+      "Mountain Lion"
+    ],
+    "requires": "|Class 5 Permit| AND |Silver Ridge Peaks| AND |@Rifle-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mountain Lion - Diamond (39)",
+    "category": [
+      "Mountain Lion"
+    ],
+    "requires": "|Class 5 Permit| AND |Silver Ridge Peaks| AND |@Rifle-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Puma",
+    "category": [
+      "Puma"
+    ],
+    "requires": "|Class 5 Permit| AND |Parque Fernando| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Puma - Bronze",
+    "category": [
+      "Puma"
+    ],
+    "requires": "|Class 5 Permit| AND |Parque Fernando| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Puma - Silver",
+    "category": [
+      "Puma"
+    ],
+    "requires": "|Class 5 Permit| AND |Parque Fernando| AND |@Rifle:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Puma - Gold",
+    "category": [
+      "Puma"
+    ],
+    "requires": "|Class 5 Permit| AND |Parque Fernando| AND |@Rifle-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Puma - Diamond (39)",
+    "category": [
+      "Puma"
+    ],
+    "requires": "|Class 5 Permit| AND |Parque Fernando| AND |@Rifle-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Wild Boar",
+    "category": [
+      "Wild Boar"
+    ],
+    "requires": "|Class 5 Permit| AND (|Hirschfelden Hunting Reserve| OR |Medved-Taiga National Park| OR |Cuatro Colinas Game Reserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Wild Boar - Bronze",
+    "category": [
+      "Wild Boar"
+    ],
+    "requires": "|Class 5 Permit| AND (|Hirschfelden Hunting Reserve| OR |Medved-Taiga National Park| OR |Cuatro Colinas Game Reserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Wild Boar - Silver",
+    "category": [
+      "Wild Boar"
+    ],
+    "requires": "|Class 5 Permit| AND (|Hirschfelden Hunting Reserve| OR |Medved-Taiga National Park| OR |Cuatro Colinas Game Reserve|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Wild Boar - Gold",
+    "category": [
+      "Wild Boar"
+    ],
+    "requires": "|Class 5 Permit| AND (|Hirschfelden Hunting Reserve| OR |Medved-Taiga National Park| OR |Cuatro Colinas Game Reserve|) AND |@Gun-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Wild Boar - Diamond (144.25)",
+    "category": [
+      "Wild Boar"
+    ],
+    "requires": "|Class 5 Permit| AND (|Hirschfelden Hunting Reserve| OR |Medved-Taiga National Park| OR |Cuatro Colinas Game Reserve|) AND |@Gun-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Feral Pig",
+    "category": [
+      "Feral Pig"
+    ],
+    "requires": "|Class 5 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Feral Pig - Bronze",
+    "category": [
+      "Feral Pig"
+    ],
+    "requires": "|Class 5 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Feral Pig - Silver",
+    "category": [
+      "Feral Pig"
+    ],
+    "requires": "|Class 5 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Feral Pig - Gold",
+    "category": [
+      "Feral Pig"
+    ],
+    "requires": "|Class 5 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|) AND |@Gun-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Feral Pig - Diamond (144.25)",
+    "category": [
+      "Feral Pig"
+    ],
+    "requires": "|Class 5 Permit| AND (|Te Awaroa National Park| OR |Emerald Coast|) AND |@Gun-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Wild Hog",
+    "category": [
+      "Wild Hog"
+    ],
+    "requires": "|Class 5 Permit| AND |Mississippi Acres Preserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Wild Hog - Bronze",
+    "category": [
+      "Wild Hog"
+    ],
+    "requires": "|Class 5 Permit| AND |Mississippi Acres Preserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Wild Hog - Silver",
+    "category": [
+      "Wild Hog"
+    ],
+    "requires": "|Class 5 Permit| AND |Mississippi Acres Preserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "Wild Hog - Gold",
+    "category": [
+      "Wild Hog"
+    ],
+    "requires": "|Class 5 Permit| AND |Mississippi Acres Preserve| AND |@Gun-Class 5:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Wild Hog - Diamond (144.2)",
+    "category": [
+      "Wild Hog"
+    ],
+    "requires": "|Class 5 Permit| AND |Mississippi Acres Preserve| AND |@Gun-Class 5:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Red Deer",
+    "category": [
+      "Red Deer"
+    ],
+    "requires": "|Class 6 Permit| AND (|Hirschfelden Hunting Reserve| OR |Parque Fernando| OR |Cuatro Colinas Game Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Red Deer - Bronze",
+    "category": [
+      "Red Deer"
+    ],
+    "requires": "|Class 6 Permit| AND (|Hirschfelden Hunting Reserve| OR |Parque Fernando| OR |Cuatro Colinas Game Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Starting"
+  },
+  {
+    "name": "Red Deer - Silver",
+    "category": [
+      "Red Deer"
+    ],
+    "requires": "|Class 6 Permit| AND (|Hirschfelden Hunting Reserve| OR |Parque Fernando| OR |Cuatro Colinas Game Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Red Deer - Gold",
+    "category": [
+      "Red Deer"
+    ],
+    "requires": "|Class 6 Permit| AND (|Hirschfelden Hunting Reserve| OR |Parque Fernando| OR |Cuatro Colinas Game Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|) AND |@Rifle-Class 6:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Red Deer - Diamond (251.07)",
+    "category": [
+      "Red Deer"
+    ],
+    "requires": "|Class 6 Permit| AND (|Hirschfelden Hunting Reserve| OR |Parque Fernando| OR |Cuatro Colinas Game Reserve| OR |Te Awaroa National Park| OR |Emerald Coast|) AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mountain Reindeer",
+    "category": [
+      "Mountain Reindeer"
+    ],
+    "requires": "|Class 6 Permit| AND |Medved-Taiga National Park|",
+    "region": "Starting"
+  },
+  {
+    "name": "Mountain Reindeer - Bronze",
+    "category": [
+      "Mountain Reindeer"
+    ],
+    "requires": "|Class 6 Permit| AND |Medved-Taiga National Park|",
+    "region": "Starting"
+  },
+  {
+    "name": "Mountain Reindeer - Silver",
+    "category": [
+      "Mountain Reindeer"
+    ],
+    "requires": "|Class 6 Permit| AND |Medved-Taiga National Park|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Mountain Reindeer - Gold",
+    "category": [
+      "Mountain Reindeer"
+    ],
+    "requires": "|Class 6 Permit| AND |Medved-Taiga National Park| AND |@Rifle-Class 6:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Mountain Reindeer - Diamond (430.23)",
+    "category": [
+      "Mountain Reindeer"
+    ],
+    "requires": "|Class 6 Permit| AND |Medved-Taiga National Park| AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Grant Caribou",
+    "category": [
+      "Grant Caribou"
+    ],
+    "requires": "|Class 6 Permit| AND |Yukon Valley|",
+    "region": "Starting"
+  },
+  {
+    "name": "Grant Caribou - Bronze",
+    "category": [
+      "Grant Caribou"
+    ],
+    "requires": "|Class 6 Permit| AND |Yukon Valley|",
+    "region": "Starting"
+  },
+  {
+    "name": "Grant Caribou - Silver",
+    "category": [
+      "Grant Caribou"
+    ],
+    "requires": "|Class 6 Permit| AND |Yukon Valley|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Grant Caribou - Gold",
+    "category": [
+      "Grant Caribou"
+    ],
+    "requires": "|Class 6 Permit| AND |Yukon Valley| AND |@Rifle-Class 6:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Grant Caribou - Diamond (430.23)",
+    "category": [
+      "Grant Caribou"
+    ],
+    "requires": "|Class 6 Permit| AND |Yukon Valley| AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Blue Wildebeest",
+    "category": [
+      "Blue Wildebeest"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Blue Wildebeest - Bronze",
+    "category": [
+      "Blue Wildebeest"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Blue Wildebeest - Silver",
+    "category": [
+      "Blue Wildebeest"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Blue Wildebeest - Gold",
+    "category": [
+      "Blue Wildebeest"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna| AND |@Rifle-Class 6:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Blue Wildebeest - Diamond (37.6)",
+    "category": [
+      "Blue Wildebeest"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna| AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Gemsbok",
+    "category": [
+      "Gemsbok"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Gemsbok - Bronze",
+    "category": [
+      "Gemsbok"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna|",
+    "region": "Starting"
+  },
+  {
+    "name": "Gemsbok - Silver",
+    "category": [
+      "Gemsbok"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Gemsbok - Gold",
+    "category": [
+      "Gemsbok"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna| AND |@Rifle-Class 6:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Gemsbok - Diamond (337.5)",
+    "category": [
+      "Gemsbok"
+    ],
+    "requires": "|Class 6 Permit| AND |Vurhonga Savanna| AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Barasingha",
+    "category": [
+      "Barasingha"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan|",
+    "region": "Starting"
+  },
+  {
+    "name": "Barasingha - Bronze",
+    "category": [
+      "Barasingha"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan|",
+    "region": "Starting"
+  },
+  {
+    "name": "Barasingha - Silver",
+    "category": [
+      "Barasingha"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Barasingha - Gold",
+    "category": [
+      "Barasingha"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan| AND |@Rifle-Class 6:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Barasingha - Diamond (226.05)",
+    "category": [
+      "Barasingha"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan| AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Nilgai",
+    "category": [
+      "Nilgai"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan|",
+    "region": "Starting"
+  },
+  {
+    "name": "Nilgai - Bronze",
+    "category": [
+      "Nilgai"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan|",
+    "region": "Starting"
+  },
+  {
+    "name": "Nilgai - Silver",
+    "category": [
+      "Nilgai"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Nilgai - Gold",
+    "category": [
+      "Nilgai"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan| AND |@Rifle-Class 6:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Nilgai - Diamond (94.89)",
+    "category": [
+      "Nilgai"
+    ],
+    "requires": "|Class 6 Permit| AND |Sundarpatan| AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Grey Wolf",
+    "category": [
+      "Grey Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND (|Medved-Taiga National Park| OR |Yukon Valley| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Grey Wolf - Bronze",
+    "category": [
+      "Grey Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND (|Medved-Taiga National Park| OR |Yukon Valley| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Grey Wolf - Silver",
+    "category": [
+      "Grey Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND (|Medved-Taiga National Park| OR |Yukon Valley| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Grey Wolf - Gold",
+    "category": [
+      "Grey Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND (|Medved-Taiga National Park| OR |Yukon Valley| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle-Class 6:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Grey Wolf - Diamond (39)",
+    "category": [
+      "Grey Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND (|Medved-Taiga National Park| OR |Yukon Valley| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult"
+  },
+  {
+    "name": "Iberian Wolf",
+    "category": [
+      "Iberian Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Iberian Wolf - Bronze",
+    "category": [
+      "Iberian Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Iberian Wolf - Silver",
+    "category": [
+      "Iberian Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Iberian Wolf - Gold",
+    "category": [
+      "Iberian Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 6:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Iberian Wolf - Diamond (39)",
+    "category": [
+      "Iberian Wolf"
+    ],
+    "requires": "|Class 6 Permit| AND |Cuatro Colinas Game Reserve| AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult"
+  },
+  {
+    "name": "Sambar",
+    "category": [
+      "Sambar"
+    ],
+    "requires": "|Class 7 Permit| AND |Emerald Coast|",
+    "region": "Starting"
+  },
+  {
+    "name": "Sambar - Bronze",
+    "category": [
+      "Sambar"
+    ],
+    "requires": "|Class 7 Permit| AND |Emerald Coast|",
+    "region": "Starting"
+  },
+  {
+    "name": "Sambar - Silver",
+    "category": [
+      "Sambar"
+    ],
+    "requires": "|Class 7 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Sambar - Gold",
+    "category": [
+      "Sambar"
+    ],
+    "requires": "|Class 7 Permit| AND |Emerald Coast| AND |@Rifle-Class 7:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Sambar - Diamond (166.24)",
+    "category": [
+      "Sambar"
+    ],
+    "requires": "|Class 7 Permit| AND |Emerald Coast| AND |@Rifle-Class 7:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Rocky Mountain Elk",
+    "category": [
+      "Rocky Mountain Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Silver Ridge Peaks|",
+    "region": "Starting"
+  },
+  {
+    "name": "Rocky Mountain Elk - Bronze",
+    "category": [
+      "Rocky Mountain Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Silver Ridge Peaks|",
+    "region": "Starting"
+  },
+  {
+    "name": "Rocky Mountain Elk - Silver",
+    "category": [
+      "Rocky Mountain Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Silver Ridge Peaks|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Rocky Mountain Elk - Gold",
+    "category": [
+      "Rocky Mountain Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Silver Ridge Peaks| AND |@Rifle-Class 7:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Rocky Mountain Elk - Diamond (481.41)",
+    "category": [
+      "Rocky Mountain Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Silver Ridge Peaks| AND |@Rifle-Class 7:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Roosevelt Elk",
+    "category": [
+      "Roosevelt Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Layton Lake District|",
+    "region": "Starting"
+  },
+  {
+    "name": "Roosevelt Elk - Bronze",
+    "category": [
+      "Roosevelt Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Layton Lake District|",
+    "region": "Starting"
+  },
+  {
+    "name": "Roosevelt Elk - Silver",
+    "category": [
+      "Roosevelt Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Layton Lake District|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Roosevelt Elk - Gold",
+    "category": [
+      "Roosevelt Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Layton Lake District| AND |@Rifle-Class 7:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Roosevelt Elk - Diamond (380.8)",
+    "category": [
+      "Roosevelt Elk"
+    ],
+    "requires": "|Class 7 Permit| AND |Layton Lake District| AND |@Rifle-Class 7:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Black Bear",
+    "category": [
+      "Black Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Layton Lake District| OR |Silver Ridge Peaks| OR |Mississippi Acres Preserve| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Black Bear - Bronze",
+    "category": [
+      "Black Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Layton Lake District| OR |Silver Ridge Peaks| OR |Mississippi Acres Preserve| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Black Bear - Silver",
+    "category": [
+      "Black Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Layton Lake District| OR |Silver Ridge Peaks| OR |Mississippi Acres Preserve| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Black Bear - Gold",
+    "category": [
+      "Black Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Layton Lake District| OR |Silver Ridge Peaks| OR |Mississippi Acres Preserve| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle-Class 7:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Black Bear - Diamond (22.8)",
+    "category": [
+      "Black Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Layton Lake District| OR |Silver Ridge Peaks| OR |Mississippi Acres Preserve| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Rifle-Class 7:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Eurasian Brown Bear",
+    "category": [
+      "Eurasian Brown Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle:1|",
+    "region": "Starting"
+  },
+  {
+    "name": "Eurasian Brown Bear - Bronze",
+    "category": [
+      "Eurasian Brown Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Eurasian Brown Bear - Silver",
+    "category": [
+      "Eurasian Brown Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Eurasian Brown Bear - Gold",
+    "category": [
+      "Eurasian Brown Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle-Class 7:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Eurasian Brown Bear - Diamond (27.7)",
+    "category": [
+      "Eurasian Brown Bear"
+    ],
+    "requires": "|Class 7 Permit| AND (|Medved-Taiga National Park| OR |Revontuli Coast|) AND |@Rifle-Class 7:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "American Alligator",
+    "category": [
+      "American Alligator"
+    ],
+    "requires": "|Class 7 Permit| AND |Mississippi Acres Preserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "American Alligator - Bronze",
+    "category": [
+      "American Alligator"
+    ],
+    "requires": "|Class 7 Permit| AND |Mississippi Acres Preserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "American Alligator - Silver",
+    "category": [
+      "American Alligator"
+    ],
+    "requires": "|Class 7 Permit| AND |Mississippi Acres Preserve|",
+    "region": "Starting"
+  },
+  {
+    "name": "American Alligator - Gold",
+    "category": [
+      "American Alligator"
+    ],
+    "requires": "|Class 7 Permit| AND |Mississippi Acres Preserve| AND |@Gun-Class 7:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "American Alligator - Diamond (492)",
+    "category": [
+      "American Alligator"
+    ],
+    "requires": "|Class 7 Permit| AND |Mississippi Acres Preserve| AND |@Gun-Class 7:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Moose",
+    "category": [
+      "Moose"
+    ],
+    "requires": "|Class 8 Permit| AND (|Layton Lake District| OR |Medved-Taiga National Park| OR |Yukon Valley| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Moose - Bronze",
+    "category": [
+      "Moose"
+    ],
+    "requires": "|Class 8 Permit| AND (|Layton Lake District| OR |Medved-Taiga National Park| OR |Yukon Valley| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Moose - Silver",
+    "category": [
+      "Moose"
+    ],
+    "requires": "|Class 8 Permit| AND (|Layton Lake District| OR |Medved-Taiga National Park| OR |Yukon Valley| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Moose - Gold",
+    "category": [
+      "Moose"
+    ],
+    "requires": "|Class 8 Permit| AND (|Layton Lake District| OR |Medved-Taiga National Park| OR |Yukon Valley| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Gun-Class 8:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Moose - Diamond (274.99)",
+    "category": [
+      "Moose"
+    ],
+    "requires": "|Class 8 Permit| AND (|Layton Lake District| OR |Medved-Taiga National Park| OR |Yukon Valley| OR |Revontuli Coast| OR |New England Mountains| OR |Askiy Ridge Hunting Preserve|) AND |@Gun-Class 8:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Grizzly Bear",
+    "category": [
+      "Grizzly Bear"
+    ],
+    "requires": "|Class 8 Permit| AND |Yukon Valley| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Grizzly Bear - Bronze",
+    "category": [
+      "Grizzly Bear"
+    ],
+    "requires": "|Class 8 Permit| AND |Yukon Valley| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Grizzly Bear - Silver",
+    "category": [
+      "Grizzly Bear"
+    ],
+    "requires": "|Class 8 Permit| AND |Yukon Valley| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Grizzly Bear - Gold",
+    "category": [
+      "Grizzly Bear"
+    ],
+    "requires": "|Class 8 Permit| AND |Yukon Valley| AND |@Rifle-Class 8:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Grizzly Bear - Diamond (66.94)",
+    "category": [
+      "Grizzly Bear"
+    ],
+    "requires": "|Class 8 Permit| AND |Yukon Valley| AND |@Rifle-Class 8:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Saltwater Crocodile",
+    "category": [
+      "Saltwater Crocodile"
+    ],
+    "requires": "|Class 8 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Saltwater Crocodile - Bronze",
+    "category": [
+      "Saltwater Crocodile"
+    ],
+    "requires": "|Class 8 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Saltwater Crocodile - Silver",
+    "category": [
+      "Saltwater Crocodile"
+    ],
+    "requires": "|Class 8 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Saltwater Crocodile - Gold",
+    "category": [
+      "Saltwater Crocodile"
+    ],
+    "requires": "|Class 8 Permit| AND |Emerald Coast| AND |@Gun-Class 8:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Saltwater Crocodile - Diamond (1015)",
+    "category": [
+      "Saltwater Crocodile"
+    ],
+    "requires": "|Class 8 Permit| AND |Emerald Coast| AND |@Gun-Class 8:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Banteng",
+    "category": [
+      "Banteng"
+    ],
+    "requires": "|Class 9 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Banteng - Bronze",
+    "category": [
+      "Banteng"
+    ],
+    "requires": "|Class 9 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Banteng - Silver",
+    "category": [
+      "Banteng"
+    ],
+    "requires": "|Class 9 Permit| AND |Emerald Coast|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Banteng - Gold",
+    "category": [
+      "Banteng"
+    ],
+    "requires": "|Class 9 Permit| AND |Emerald Coast| AND |@Gun-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Banteng - Diamond (137)",
+    "category": [
+      "Banteng"
+    ],
+    "requires": "|Class 9 Permit| AND |Emerald Coast| AND |@Gun-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "European Bison",
+    "category": [
+      "European Bison"
+    ],
+    "requires": "|Class 9 Permit| AND |Hirschfelden Hunting Reserve|",
+    "region": "Difficult"
+  },
+  {
+    "name": "European Bison - Bronze",
+    "category": [
+      "European Bison"
+    ],
+    "requires": "|Class 9 Permit| AND |Hirschfelden Hunting Reserve|",
+    "region": "Difficult"
+  },
+  {
+    "name": "European Bison - Silver",
+    "category": [
+      "European Bison"
+    ],
+    "requires": "|Class 9 Permit| AND |Hirschfelden Hunting Reserve|",
+    "region": "Difficult"
+  },
+  {
+    "name": "European Bison - Gold",
+    "category": [
+      "European Bison"
+    ],
+    "requires": "|Class 9 Permit| AND |Hirschfelden Hunting Reserve| AND |@Gun-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "European Bison - Diamond (127.62)",
+    "category": [
+      "European Bison"
+    ],
+    "requires": "|Class 9 Permit| AND |Hirschfelden Hunting Reserve| AND |@Gun-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Plains Bison",
+    "category": [
+      "Plains Bison"
+    ],
+    "requires": "|Class 9 Permit| AND (|Yukon Valley| OR |Silver Ridge Peaks|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Plains Bison - Bronze",
+    "category": [
+      "Plains Bison"
+    ],
+    "requires": "|Class 9 Permit| AND (|Yukon Valley| OR |Silver Ridge Peaks|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Plains Bison - Silver",
+    "category": [
+      "Plains Bison"
+    ],
+    "requires": "|Class 9 Permit| AND (|Yukon Valley| OR |Silver Ridge Peaks|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Plains Bison - Gold",
+    "category": [
+      "Plains Bison"
+    ],
+    "requires": "|Class 9 Permit| AND (|Yukon Valley| OR |Silver Ridge Peaks|) AND |@Gun-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Plains Bison - Diamond (183.5)",
+    "category": [
+      "Plains Bison"
+    ],
+    "requires": "|Class 9 Permit| AND (|Yukon Valley| OR |Silver Ridge Peaks|) AND |@Gun-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Water Buffalo",
+    "category": [
+      "Water Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND (|Vurhonga Savanna| OR |Parque Fernando| OR |Sundarpatan|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Water Buffalo - Bronze",
+    "category": [
+      "Water Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND (|Vurhonga Savanna| OR |Parque Fernando| OR |Sundarpatan|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Water Buffalo - Silver",
+    "category": [
+      "Water Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND (|Vurhonga Savanna| OR |Parque Fernando| OR |Sundarpatan|)",
+    "region": "Difficult"
+  },
+  {
+    "name": "Water Buffalo - Gold",
+    "category": [
+      "Water Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND (|Vurhonga Savanna| OR |Parque Fernando| OR |Sundarpatan|) AND |@Gun-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Water Buffalo - Diamond (167.54)",
+    "category": [
+      "Water Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND (|Vurhonga Savanna| OR |Parque Fernando| OR |Sundarpatan|) AND |@Gun-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Wild Yak",
+    "category": [
+      "Wild Yak"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Wild Yak - Bronze",
+    "category": [
+      "Wild Yak"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Wild Yak - Silver",
+    "category": [
+      "Wild Yak"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Wild Yak - Gold",
+    "category": [
+      "Wild Yak"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan| AND |@Gun-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Wild Yak - Diamond (273.23)",
+    "category": [
+      "Wild Yak"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan| AND |@Gun-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Lion",
+    "category": [
+      "Lion"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Lion - Bronze",
+    "category": [
+      "Lion"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna| AND |@Rifle:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Lion - Silver",
+    "category": [
+      "Lion"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Lion - Gold",
+    "category": [
+      "Lion"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna| AND |@Rifle-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Lion - Diamond (48.5)",
+    "category": [
+      "Lion"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna| AND |@Rifle-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Bengal Tiger",
+    "category": [
+      "Bengal Tiger"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Bengal Tiger - Bronze",
+    "category": [
+      "Bengal Tiger"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Bengal Tiger - Silver",
+    "category": [
+      "Bengal Tiger"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Bengal Tiger - Gold",
+    "category": [
+      "Bengal Tiger"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan| AND |@Rifle-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Bengal Tiger - Diamond (57)",
+    "category": [
+      "Bengal Tiger"
+    ],
+    "requires": "|Class 9 Permit| AND |Sundarpatan| AND |@Rifle-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Cape Buffalo",
+    "category": [
+      "Cape Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Cape Buffalo - Bronze",
+    "category": [
+      "Cape Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Cape Buffalo - Silver",
+    "category": [
+      "Cape Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Cape Buffalo - Gold",
+    "category": [
+      "Cape Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna| AND |@Gun-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Cape Buffalo - Diamond (151.35)",
+    "category": [
+      "Cape Buffalo"
+    ],
+    "requires": "|Class 9 Permit| AND |Vurhonga Savanna| AND |@Gun-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "North American Beaver",
+    "category": [
+      "North American Beaver"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 2 Permit|",
+    "region": "Difficult"
+  },
+  {
+    "name": "North American Beaver - Bronze",
+    "category": [
+      "North American Beaver"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 2 Permit|",
+    "region": "Difficult"
+  },
+  {
+    "name": "North American Beaver - Silver",
+    "category": [
+      "North American Beaver"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 2 Permit|",
+    "region": "Difficult"
+  },
+  {
+    "name": "North American Beaver - Gold",
+    "category": [
+      "North American Beaver"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 2 Permit| AND |@Gun-Class 2:1|",
+    "region": "Difficult"
+  },
+  {
+    "name": "North American Beaver - Diamond (30.40)",
+    "category": [
+      "North American Beaver"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 2 Permit| AND |@Gun-Class 2:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult"
+  },
+  {
+    "name": "Wood Bison",
+    "category": [
+      "Wood Bison"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 9 Permit|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Wood Bison - Bronze",
+    "category": [
+      "Wood Bison"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 9 Permit|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Wood Bison - Silver",
+    "category": [
+      "Wood Bison"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 9 Permit|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Wood Bison - Gold",
+    "category": [
+      "Wood Bison"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 9 Permit| AND |@Gun-Class 9:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Wood Bison - Diamond (158)",
+    "category": [
+      "Wood Bison"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 9 Permit| AND |@Gun-Class 9:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Manitoban Elk",
+    "category": [
+      "Manitoban Elk"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 7 Permit|",
+    "region": "Starting"
+  },
+  {
+    "name": "Manitoban Elk - Bronze",
+    "category": [
+      "Manitoban Elk"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 7 Permit|",
+    "region": "Starting"
+  },
+  {
+    "name": "Manitoban Elk - Silver",
+    "category": [
+      "Manitoban Elk"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 7 Permit|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Manitoban Elk - Gold",
+    "category": [
+      "Manitoban Elk"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 7 Permit| AND |@Rifle-Class 7:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Manitoban Elk - Diamond (457.56)",
+    "category": [
+      "Manitoban Elk"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 7 Permit| AND |@Rifle-Class 7:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Dusky Grouse",
+    "category": [
+      "Dusky Grouse"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Dusky Grouse - Bronze",
+    "category": [
+      "Dusky Grouse"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Dusky Grouse - Silver",
+    "category": [
+      "Dusky Grouse"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Dusky Grouse - Gold",
+    "category": [
+      "Dusky Grouse"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Dusky Grouse - Diamond (151)",
+    "category": [
+      "Dusky Grouse"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Class1_GD"
+  },
+  {
+    "name": "Northern Pintail",
+    "category": [
+      "Northern Pintail"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Northern Pintail - Bronze",
+    "category": [
+      "Northern Pintail"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Northern Pintail - Silver",
+    "category": [
+      "Northern Pintail"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Northern Pintail - Gold",
+    "category": [
+      "Northern Pintail"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Northern Pintail - Diamond (1040)",
+    "category": [
+      "Northern Pintail"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Wood Duck",
+    "category": [
+      "Wood Duck"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Wood Duck - Bronze",
+    "category": [
+      "Wood Duck"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Wood Duck - Silver",
+    "category": [
+      "Wood Duck"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Wood Duck - Gold",
+    "category": [
+      "Wood Duck"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Wood Duck - Diamond (670)",
+    "category": [
+      "Wood Duck"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Snow Goose",
+    "category": [
+      "Snow Goose"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Class1"
+  },
+  {
+    "name": "Snow Goose - Bronze",
+    "category": [
+      "Snow Goose"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Snow Goose - Silver",
+    "category": [
+      "Snow Goose"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Bird"
+  },
+  {
+    "name": "Snow Goose - Gold",
+    "category": [
+      "Snow Goose"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Snow Goose - Diamond (3.85)",
+    "category": [
+      "Snow Goose"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Bird_GD"
+  },
+  {
+    "name": "Woodland Caribou",
+    "category": [
+      "Woodland Caribou"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 6 Permit|",
+    "region": "Starting"
+  },
+  {
+    "name": "Woodland Caribou - Bronze",
+    "category": [
+      "Woodland Caribou"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 6 Permit|",
+    "region": "Starting"
+  },
+  {
+    "name": "Woodland Caribou - Silver",
+    "category": [
+      "Woodland Caribou"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 6 Permit|",
+    "region": "Difficult"
+  },
+  {
+    "name": "Woodland Caribou - Gold",
+    "category": [
+      "Woodland Caribou"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 6 Permit| AND |@Rifle-Class 6:1|",
+    "region": "Difficult_GD"
+  },
+  {
+    "name": "Woodland Caribou - Diamond (430.23)",
+    "category": [
+      "Woodland Caribou"
+    ],
+    "requires": "|Askiy Ridge Hunting Preserve| AND |Class 6 Permit| AND |@Rifle-Class 6:1|",
+    "place_item": [
+      "Diamond Trophy"
+    ],
+    "region": "Difficult_GD"
+  }
+]

@@ -1,0 +1,133 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "theHunterCotWTrophyHunt",
+  "creator": "Camoufladies",
+  "filler_item_name": "Flesh Wound",
+  "starting_items": [
+    {
+      "items": [
+        "Class 3 Permit",
+        "Class 4 Permit",
+        "Class 5 Permit",
+        "Class 6 Permit",
+        "Class 7 Permit"
+      ],
+      "random": 1
+    },
+    {
+      "items": [
+        "Hirschfelden Hunting Reserve",
+        "Vurhonga Savanna",
+        "Parque Fernando",
+        "Cuatro Colinas Game Reserve",
+        "Silver Ridge Peaks",
+        "Te Awaroa National Park",
+        "Rancho del Arroyo",
+        "Emerald Coast",
+        "Sundarpatan",
+        "Askiy Ridge Hunting Preserve"
+      ],
+      "random": 1,
+      "if_previous_item": [
+        "Class 3 Permit"
+      ]
+    },
+    {
+      "items": [
+        "Hirschfelden Hunting Reserve",
+        "Layton Lake District",
+        "Vurhonga Savanna",
+        "Cuatro Colinas Game Reserve",
+        "Silver Ridge Peaks",
+        "Te Awaroa National Park",
+        "Rancho del Arroyo",
+        "Mississippi Acres Preserve",
+        "Revontuli Coast",
+        "New England Mountains",
+        "Emerald Coast",
+        "Sundarpatan",
+        "Askiy Ridge Hunting Preserve"
+      ],
+      "random": 1,
+      "if_previous_item": [
+        "Class 4 Permit"
+      ]
+    },
+    {
+      "items": [
+        "Hirschfelden Hunting Reserve",
+        "Medved-Taiga National Park",
+        "Parque Fernando",
+        "Cuatro Colinas Game Reserve",
+        "Silver Ridge Peaks",
+        "Te Awaroa National Park",
+        "Rancho del Arroyo",
+        "Mississippi Acres Preserve",
+        "Emerald Coast",
+        "Askiy Ridge Hunting Preserve"
+      ],
+      "random": 1,
+      "if_previous_item": [
+        "Class 5 Permit"
+      ]
+    },
+    {
+      "items": [
+        "Hirschfelden Hunting Reserve",
+        "Medved-Taiga National Park",
+        "Vurhonga Savanna",
+        "Parque Fernando",
+        "Yukon Valley",
+        "Cuatro Colinas Game Reserve",
+        "Te Awaroa National Park",
+        "Emerald Coast",
+        "Sundarpatan",
+        "Askiy Ridge Hunting Preserve"
+      ],
+      "random": 1,
+      "if_previous_item": [
+        "Class 6 Permit"
+      ]
+    },
+    {
+      "items": [
+        "Layton Lake District",
+        "Silver Ridge Peaks",
+        "Mississippi Acres Preserve",
+        "Emerald Coast",
+        "Askiy Ridge Hunting Preserve"
+      ],
+      "random": 1,
+      "if_previous_item": [
+        "Class 7 Permit"
+      ]
+    },
+    {
+      "items": [
+        ".223 Docent",
+        "Ranger .243",
+        ".270 Huntsman",
+        "7 mm Regent Magnum",
+        "Whitlock Model 86",
+        "Coachmate Lever .45-70",
+        ".44 Panther Magnum",
+        "Focoso 357",
+        "Rhino 454",
+        "Sundberg 454"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Binoculars"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Clothing"
+      ],
+      "random": 1
+    }
+  ]
+}
