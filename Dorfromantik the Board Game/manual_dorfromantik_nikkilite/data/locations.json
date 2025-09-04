@@ -1,0 +1,523 @@
+[
+  {
+    "name": "Longest track of 5",
+    "category": [
+      "Tile Placement"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+    {
+    "name": "Longest track of 10",
+    "category": [
+      "Tile Placement"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "Longest track of 15",
+    "category": [
+      "Tile Placement"
+    ],
+    "requires": [],
+    "region": "Score 1"
+  },
+  {
+    "name": "Longest stream of 5",
+    "category": [
+      "Tile Placement"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "Longest stream of 10",
+    "category": [
+      "Tile Placement"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "Longest stream of 15",
+    "category": [
+      "Tile Placement"
+    ],
+    "requires": [],
+    "region": "Score 1"
+  },
+    {
+    "name": "Balloon Travel Distance of 5",
+    "category": [
+      "Tile Placement"
+    ],
+    "requires": ["Balloon Launch Site + Balloon"],
+    "region": "Start"
+  },
+  {
+    "name": "Balloon Travel Distance of 10",
+    "category": [
+      "Tile Placement"
+    ],
+    "requires": ["Balloon Launch Site + Balloon"],
+    "region": "Start"
+  },
+  {
+    "name": "5",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "6",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "7",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "8",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "9",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "10",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "15",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "20",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "30",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "40",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "50",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "60",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "70",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "80",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "90 Vagabond",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Start"
+  },
+  {
+    "name": "100 Newsboy",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 1"
+  },
+  {
+    "name": "110 Fisherman",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 1"
+  },
+  {
+    "name": "120 Coachman",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 2"
+  },
+  {
+    "name": "130 Night Watchman",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 2"
+  },
+  {
+    "name": "140 Actress",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 3"
+  },
+  {
+    "name": "150 Landlady",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 3"
+  },
+  {
+    "name": "160 Forest Ranger",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 4"
+  },
+  {
+    "name": "170 Farmer's Wife",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 5"
+  },
+  {
+    "name": "180 Engineer",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 6"
+  },
+  {
+    "name": "190 Ringmaster",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 7"
+  },
+  {
+    "name": "200 Captain",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 8"
+  },
+  {
+    "name": "210 Harbormaster",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 8"
+  },
+  {
+    "name": "220 Stationmaster",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 9"
+  },
+  {
+    "name": "230 Photographer",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 9"
+  },
+  {
+    "name": "240 Merchant",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 10"
+  },
+  {
+    "name": "250 Architect",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 10"
+  },
+  {
+    "name": "260 Inventor",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 11"
+  },
+  {
+    "name": "270 Astronomer",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 12"
+  },
+  {
+    "name": "280 Doctor",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 13"
+  },
+  {
+    "name": "290 Diplomat",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 14"
+  },
+  {
+    "name": "300 Balloonist",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 15"
+  },
+  {
+    "name": "310 Manufacturer",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 16"
+  },
+  {
+    "name": "320 Mayor",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 17"
+  },
+  {
+    "name": "330 Councilor",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 18"
+  },
+  {
+    "name": "340 Magnate",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 19"
+  },
+  {
+    "name": "350 Baroness",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 20"
+  },
+  {
+    "name": "375 Crown Prince",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 20"
+  },
+  {
+    "name": "400 Empress",
+    "category": [
+      "Scores"
+    ],
+    "requires": [],
+    "region": "Score 20"
+  },
+  {
+    "name": "Heart's Desire",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Red Heart|"
+  },
+  {
+    "name": "On the Road to Success",
+    "region": "Score 8",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Harbor",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Harbor|"
+  },
+  {
+    "name": "Balloon Launch Site",
+    "region": "Score 16",
+    "category": [
+      "Achievements"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Golden Heart",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Hearts:3|"
+  },
+  {
+    "name": "Flag Festival",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Box 2 Tiles| AND |@Flag Tiles:2|"
+  },
+  {
+    "name": "Train Station",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|Train Station|"
+  },
+  {
+    "name": "Construction Site",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Task Markers:31| AND |Box 1 Tiles|"
+  },
+  {
+    "victory": true,
+    "name": "VICTORY 350 Points",
+    "region": "Score 20",
+    "category": [
+      "VICTORY"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Forest Cabin",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Forest Task Markers:6| AND |Box 1 Tiles|"
+  },
+  {
+    "name": "Watchtower",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Village Task Markers:6| AND |Box 1 Tiles|"
+  },
+  {
+    "name": "Harvest Festival",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Grain Task Markers:6| AND |Box 1 Tiles|"
+  },
+  {
+    "name": "Ship",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Stream Task Markers:6| AND |Box 1 Tiles|"
+  },
+  {
+    "name": "Locomotive",
+    "region": "Start",
+    "category": [
+      "Achievements"
+    ],
+    "requires": "|@Track Task Markers:6| AND |Box 1 Tiles|"
+  }
+]

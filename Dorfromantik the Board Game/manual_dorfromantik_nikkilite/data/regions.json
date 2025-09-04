@@ -1,0 +1,127 @@
+{
+  "Start": {
+    "starting": true,
+    "connects_to": [
+      "Score 1"
+    ],
+    "requires": []
+  },
+  "Score 1": {
+    "connects_to": [
+      "Score 2"
+    ],
+    "requires": "|Box 2 Tiles| AND |Box 1 Tiles|"
+  },
+  "Score 2": {
+    "connects_to": [
+      "Score 3"
+    ],
+    "requires": "|@Landscape Tiles:2| AND |@Task Markers:20|"
+  },
+  "Score 3": {
+    "connects_to": [
+      "Score 4"
+    ],
+    "requires": "|@Landscape Tiles:3|"
+  },
+  "Score 4": {
+    "connects_to": [
+      "Score 5"
+    ],
+    "requires": "|@Landscape Tiles:4|"
+  },
+  "Score 5": {
+    "connects_to": [
+      "Score 6"
+    ],
+    "requires": "|@Landscape Tiles:5|"
+  },
+  "Score 6": {
+    "connects_to": [
+      "Score 7"
+    ],
+    "requires": "|@Landscape Tiles:6|"
+  },
+  "Score 7": {
+    "connects_to": [
+      "Score 8"
+    ],
+    "requires": "|@Landscape Tiles:7| AND |@Hearts:2|"
+  },
+  "Score 8": {
+    "connects_to": [
+      "Score 9"
+    ],
+    "requires": "|@Landscape Tiles:8| AND |@Hearts:2| AND |@Task Markers:25|"
+  },
+  "Score 9": {
+    "connects_to": [
+      "Score 10"
+    ],
+    "requires": "|@Landscape Tiles:9| AND |@Hearts:2|"
+  },
+  "Score 10": {
+    "connects_to": [
+      "Score 11"
+    ],
+    "requires": "|@Landscape Tiles:10| AND |@Hearts:2|"
+  },
+  "Score 11": {
+    "connects_to": [
+      "Score 12"
+    ],
+    "requires": "|@Landscape Tiles:11| AND |@Hearts:2| AND |@Task Markers:30|"
+  },
+  "Score 12": {
+    "connects_to": [
+      "Score 13"
+    ],
+    "requires": "|@Landscape Tiles:11| AND |@Hearts:3|"
+  },
+  "Score 13": {
+    "connects_to": [
+      "Score 14"
+    ],
+    "requires": "|@Landscape Tiles:12| AND |@Hearts:3|"
+  },
+  "Score 14": {
+    "connects_to": [
+      "Score 15"
+    ],
+    "requires": "|@Landscape Tiles:13| AND |@Hearts:3|"
+  },
+  "Score 15": {
+    "connects_to": [
+      "Score 16"
+    ],
+    "requires": "|@Landscape Tiles:14| AND |@Hearts:3| AND |@Task Markers:31|"
+  },
+  "Score 16": {
+    "connects_to": [
+      "Score 17"
+    ],
+    "requires": "|@Landscape Tiles:14| AND |@Hearts:4|"
+  },
+  "Score 17": {
+    "connects_to": [
+      "Score 18"
+    ],
+    "requires": "|@Landscape Tiles:15| AND |@Hearts:4| AND |@Task Markers:32|"
+  },
+  "Score 18": {
+    "connects_to": [
+      "Score 19"
+    ],
+    "requires": "|@Landscape Tiles:16| AND |@Hearts:4|"
+  },
+  "Score 19": {
+    "connects_to": [
+      "Score 20"
+    ],
+    "requires": "|@Landscape Tiles:17| AND |@Hearts:4|"
+  },
+  "Score 20": {
+    "connects_to": [],
+    "requires": "|@Landscape Tiles:17| AND |@Hearts:5| AND |@Task Markers:33|"
+  }
+}

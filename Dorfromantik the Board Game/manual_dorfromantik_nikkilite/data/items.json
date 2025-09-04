@@ -1,0 +1,331 @@
+[
+  {
+    "count": "4",
+    "name": "Red Heart",
+    "category": [
+      "Hearts"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gold Heart",
+    "category": [
+      "Hearts"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Forest Task Markers"
+    ],
+    "name": "Forest Task Marker - 4",
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Forest Task Marker - 5",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Forest Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Forest Task Marker - 6",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Forest Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Village Task Marker - 4",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Village Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Village Task Marker - 5",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Village Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Village Task Marker - 6",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Village Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Grain Task Marker - 4",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Grain Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Grain Task Marker - 5",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Grain Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Grain Task Marker - 6",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Grain Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Track Task Marker - 4",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Track Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Track Task Marker - 5",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Track Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Track Task Marker - 6",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Track Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Stream Task Marker - 4",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Stream Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Stream Task Marker - 5",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Stream Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Stream Task Marker - 6",
+    "category": [
+      "Normal Task Markers",
+      "Task Markers",
+      "Stream Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Box 1 Tiles",
+    "category": [
+      "Task Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Box 2 Tiles",
+    "category": [
+      "Landscape Tiles",
+      "Flag Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Construction Site",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Train Station",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Flag Festival",
+    "category": [
+      "Flag Tiles",
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Balloon Launch Site + Balloon",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Harbor",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Forest Tunnel",
+    "category": [
+      "Flag Tiles",
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Warehouse",
+    "category": [
+      "Special Tiles"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hill",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Circus",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Grain Tunnel",
+    "category": [
+      "Flag Tiles",
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Village Tunnel",
+    "category": [
+      "Flag Tiles",
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shepherdess",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Signalman",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clouds",
+    "category": [
+      "Landscape Tiles"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Farm",
+    "category": [
+      "Landscape Tiles",
+      "Task Markers",
+      "Grain Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Deer",
+    "category": [
+      "Landscape Tiles",
+      "Task Markers",
+      "Forest Task Markers"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Castle",
+    "category": [
+      "Landscape Tiles",
+      "Task Markers",
+      "Village Task Markers"
+    ],
+    "progression": true
+  }
+]
